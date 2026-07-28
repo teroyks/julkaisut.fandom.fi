@@ -10,6 +10,7 @@ layout: layouts/base.njk
         <li>
           <a href="{{ publication.url }}">{{ publication.data.title }}</a>
           {% if publication.data.author %}<span class="author">{{ publication.data.author }}</span>{% endif %}
+          {% if publication.data.description %}<p class="description">{{ publication.data.description }}</p>{% endif %}
         </li>
       {% endfor %}
     </ul>

@@ -193,3 +193,13 @@ img {
   font-family: system-ui, sans-serif;
   color: var(--text-muted);
 }
+
+.publication-list li {
+  margin-block-end: 0.75rem;
+}
+
+.publication-list .description {
+  margin-block: 0.1rem 0;
+  font-size: 0.9375rem;
+  color: var(--text-muted);
+}

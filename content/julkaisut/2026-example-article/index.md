@@ -3,6 +3,7 @@ title: Example Article in English
 author: Jane Doe
 date: 2026-05-01
 lang: en
+description: A sample article in English, demonstrating the per-article language override.
 ---
 
 This is a sample article in English. It exists to demonstrate that an
