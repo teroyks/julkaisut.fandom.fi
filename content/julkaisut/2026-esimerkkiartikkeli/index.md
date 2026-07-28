@@ -16,8 +16,12 @@ sijoittaa artikkelin omaan kansioon ja viitata niihin suhteellisella
 polulla:
 
 ```markdown
-![Kuvateksti](kuva1.jpg)
+![Kuvateksti](kuva1.svg)
 ```
+
+Näin se näyttää käytännössä:
+
+![Esimerkkikuva](kuva1.svg)
 
 Listat toimivat myös:
 

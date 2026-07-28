@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#d8d8d8"/>
+  <rect x="8" y="8" width="784" height="434" fill="none" stroke="#888" stroke-width="4" stroke-dasharray="12 8"/>
+  <text x="400" y="235" font-family="system-ui, sans-serif" font-size="36" fill="#555" text-anchor="middle">Esimerkkikuva 800 × 450</text>
+</svg>
