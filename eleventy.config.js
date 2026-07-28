@@ -39,6 +39,7 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({ "assets/css": "css" });
+  eleventyConfig.addPassthroughCopy({ "assets/fonts": "fonts" });
   eleventyConfig.addPassthroughCopy(
     "content/julkaisut/**/*.{jpg,jpeg,png,gif,svg,webp}"
   );
