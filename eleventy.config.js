@@ -1,8 +1,25 @@
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import markdownItFootnote from "markdown-it-footnote";
 
 import metadata from "./_data/metadata.js";
 
 export default function (eleventyConfig) {
+  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItFootnote));
+
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    formats: ["webp", "auto"],
+    widths: [400, 800, 1200],
+    svgShortCircuit: true,
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
+        sizes: "(min-width: 50em) 45em, 100vw",
+      },
+    },
+  });
+
   eleventyConfig.addPlugin(feedPlugin, {
     type: "atom",
     outputPath: "/feed.xml",

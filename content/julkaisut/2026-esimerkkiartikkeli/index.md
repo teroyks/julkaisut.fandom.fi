@@ -31,6 +31,12 @@ Listat toimivat myös:
 
 > Lainaukset merkitään suurempi kuin -merkillä rivin alkuun.
 
+Alaviitteet merkitään hakasulkeisiin sijoitetulla sirkumfleksilla ja
+tunnisteella.[^1] Viitteen sisältö kirjoitetaan omalle rivilleen
+esimerkiksi artikkelin loppuun, ja se näkyy sivun lopussa.
+
+[^1]: Tämä on alaviitteen sisältö.
+
 ## Metatiedot
 
 Artikkelin alussa olevassa etuaineistossa (front matter) määritellään
