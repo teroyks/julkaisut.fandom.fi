@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if title and title != metadata.title %}{{ title }} – {% endif %}{{ metadata.title }}</title>
-    {% if description %}<meta name="description" content="{{ description }}">{% endif %}
+    {% set pageDescription = description or metadata.description %}
+    {% if pageDescription %}<meta name="description" content="{{ pageDescription }}">{% endif %}
     <link rel="stylesheet" href="/css/style.css">
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="{{ metadata.title }}">
   </head>

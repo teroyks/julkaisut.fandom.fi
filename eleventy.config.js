@@ -30,7 +30,7 @@ export default function (eleventyConfig) {
     metadata: {
       language: metadata.language,
       title: metadata.title,
-      subtitle: metadata.feed.description,
+      subtitle: metadata.description,
       base: `${metadata.url}/`,
       author: {
         name: metadata.feed.author,
