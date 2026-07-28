@@ -123,8 +123,28 @@ h3 {
   line-height: 1.25;
 }
 
+/* Modular type scale, ratio 1.25 from the body size */
+h1 {
+  font-size: 1.95em;
+}
+
+h2 {
+  font-size: 1.55em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+/* More space above a heading than below binds it to its section */
+h2,
+h3 {
+  margin-block: 2em 0.6em;
+}
+
 article {
   hyphens: auto;
+  hyphenate-limit-chars: 6 3 2;
 }
 
 article .meta {
