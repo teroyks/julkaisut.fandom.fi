@@ -1,4 +1,26 @@
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+
+import metadata from "./_data/metadata.js";
+
 export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(feedPlugin, {
+    type: "atom",
+    outputPath: "/feed.xml",
+    collection: {
+      name: "julkaisu",
+      limit: 0,
+    },
+    metadata: {
+      language: metadata.language,
+      title: metadata.title,
+      subtitle: metadata.feed.description,
+      base: `${metadata.url}/`,
+      author: {
+        name: metadata.feed.author,
+      },
+    },
+  });
+
   eleventyConfig.addPassthroughCopy({ "assets/css": "css" });
   eleventyConfig.addPassthroughCopy(
     "content/julkaisut/**/*.{jpg,jpeg,png,gif,svg,webp}"
