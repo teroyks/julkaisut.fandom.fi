@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+---
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+    <p class="meta">
+      {% if author %}<span class="author">{{ author }}</span> ·{% endif %}
+      <time datetime="{{ page.date | isoDate }}">{{ page.date | formatDate }}</time>
+    </p>
+  </header>
+  {{ content | safe }}
+</article>

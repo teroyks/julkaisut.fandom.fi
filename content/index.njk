@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+title: Julkaisut
+---
+<h1>Julkaisut</h1>
+{% for yearGroup in collections.publicationsByYear %}
+  <section>
+    <h2>{{ yearGroup.year }}</h2>
+    <ul class="publication-list">
+      {% for publication in yearGroup.items %}
+        <li>
+          <a href="{{ publication.url }}">{{ publication.data.title }}</a>
+          {% if publication.data.author %}<span class="author">{{ publication.data.author }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
