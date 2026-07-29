@@ -7,10 +7,14 @@ layout: layouts/base.njk
     <h2>{{ yearGroup.year }}</h2>
     <ul class="publication-list">
       {% for publication in yearGroup.items %}
+        {% set targetLang = "" %}
+        {% if publication.data.lang and publication.data.lang != metadata.language %}
+          {% set targetLang = publication.data.lang %}
+        {% endif %}
         <li>
-          <a href="{{ publication.url }}">{{ publication.data.title }}</a>
+          <a href="{{ publication.url }}"{% if targetLang %} lang="{{ targetLang }}" hreflang="{{ targetLang }}"{% endif %}>{{ publication.data.title }}</a>
           {% if publication.data.author %}<span class="author">{{ publication.data.author }}</span>{% endif %}
-          {% if publication.data.description %}<p class="description">{{ publication.data.description }}</p>{% endif %}
+          {% if publication.data.description %}<p class="description"{% if targetLang %} lang="{{ targetLang }}"{% endif %}>{{ publication.data.description }}</p>{% endif %}
         </li>
       {% endfor %}
     </ul>
