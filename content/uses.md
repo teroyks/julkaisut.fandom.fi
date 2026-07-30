@@ -32,9 +32,9 @@ The toolchain behind this site — how these publications are built and served.
 
 ## Publishing
 
-- Hosted on [TODO] <!-- TODO: GitHub Pages / own Apache server -->, deployed
+- Hosted on GitHub Pages, deployed
   automatically with [GitHub Actions](https://github.com/features/actions)
-  on every push.
+  on every push to `main`.
 - No analytics, no cookies, no JavaScript.
 
 ---
