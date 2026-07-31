@@ -1,11 +1,29 @@
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
 
 import metadata from "./_data/metadata.js";
 
 export default function (eleventyConfig) {
-  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItFootnote));
+  // Heading ids so articles can link to their own chapters (table of contents).
+  // The default transliteration is German (ä → ae); Finnish drops the umlauts.
+  const finnishReplacements = [
+    ["ä", "a"],
+    ["Ä", "A"],
+    ["ö", "o"],
+    ["Ö", "O"],
+    ["å", "a"],
+    ["Å", "A"],
+  ];
+  eleventyConfig.amendLibrary("md", (mdLib) =>
+    mdLib.use(markdownItFootnote).use(markdownItAnchor, {
+      slugify: (s) =>
+        eleventyConfig.getFilter("slugify")(s, {
+          customReplacements: finnishReplacements,
+        }),
+    })
+  );
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ["webp", "auto"],
