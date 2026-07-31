@@ -38,6 +38,9 @@ esimerkiksi artikkelin loppuun, ja se näkyy sivun lopussa.
 
 [^1]: Tämä on alaviitteen sisältö.
 
+Rivinvaihdon voi merkitä päättämällä rivi `\`-merkkiin\
+näin.
+
 ## Metatiedot
 
 Artikkelin alussa olevassa etuaineistossa (front matter) määritellään
