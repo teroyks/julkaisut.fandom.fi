@@ -3,6 +3,7 @@ title: Esimerkkiartikkeli
 author: Matti Meikäläinen
 date: 2026-06-15
 description: Malliartikkeli, joka esittelee sivuston artikkelimuotoilun eli otsikot, kuvat, listat ja alaviitteet.
+eleventyExcludeFromCollections: true
 ---
 
 Tämä on esimerkkiartikkeli, jonka voi poistaa, kun oikeaa sisältöä on
