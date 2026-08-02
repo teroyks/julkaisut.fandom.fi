@@ -244,6 +244,8 @@ TY: Ipa, sulla oli tuohon äskeiseen.
 
 IH: Joo, tähän äskeiseen silleen, että tämä vaihto on ollut tosiaan sellaista verkottumista. Mä muistan, kun se oli varmaan 96 tai 97, mä menin Jyväskylän Kesän rahoilla tuonne Bergeniin. Mä tein Jyväskylän Kesän puheohjelman ja mä sain sitten sieltä matkarahoja. Ja siellä oli muistaakseni Eurocon, ja siellä oli noin 30 henkeä, jotka osallistui siihen coniin. Siellä oli semmoinen huone, missä oli myyjiä, ja ne myyjät olivat siellä silleen "ihan kiva, ihan kiva" – ei ollut ketään ostajia. Mutta melkein ne kaikki 30 oli eri maista. Siellä oli ehkä semmoinen kuusi–seitsemän–kahdeksan norjalaista, ja sitten oli koko se muu staffi siellä, jotka järjesteli sitä 30 hengen tapahtumaa, ympäri Eurooppaa. Ja tavallaan tämä vaihto meillä on tapahtunut: meidän kansainvälistyminen on tullut sieltä muualta, ja sitten meiltä taas on mennyt sitä mallia sinne.
 
+<div lang="en">
+
 IH: At this point I would like to bring up Cheryl Morgan. Everybody knows Cheryl Morgan, but those of you who don't know: she's famous all around the globe – writer, critic, publisher, whatever. And I met Cheryl at – what was it, 2004? Maybe three or four – in the International Conference for the Fantastic in the Arts, which is sort of a Worldcon but about research, and it's a fabulous event. And we met with Cheryl there, and we became friends. And Cheryl came here the second year and has been in each Finncon every year – except one, perhaps. _\[aplodeja\]_
 
 Cheryl Morgan: Because they're good!
@@ -253,6 +255,8 @@ IH: And many of the connections – research, writing, writers, other people –
 Sari Polvinen: Also, Cheryl's con reports were absolutely wonderful and invaluable for getting word out about Finncon.
 
 IH: Absolutely. And I think there may be something to do with the spread of knowledge about Finnish science fiction, that Johanna Sinisalo got the James Tiptree Award. So I think that because you spread the knowledge about Finnish fantasy immediately, and you've done it around the globe, I think it's been very special. Thank you so much.
+
+</div>
 
 TY: Harrilla oli siellä...
 

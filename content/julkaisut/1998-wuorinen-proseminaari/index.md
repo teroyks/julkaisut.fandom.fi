@@ -18,7 +18,7 @@ description: Suomen historian proseminaarityö (Turun yliopisto)
   - [3.1. Turusta King-Conin kautta Tamconiin](#3-1-turusta-king-conin-kautta-tamconiin)
   - [3.2. Finncon, Aikacon ja Jyväskylän Kesä](#3-2-finncon-aikacon-ja-jyvaskylan-kesa)
   - [3.3. Mafiaillat](#3-3-mafiaillat)
-- [4. ”Wonderful Finnish people!” – Yhteydet ulkomaille](#4-wonderful-finnish-people-yhteydet-ulkomaille)
+- [4. ”<span lang="en">Wonderful Finnish people!</span>” – Yhteydet ulkomaille](#4-wonderful-finnish-people-yhteydet-ulkomaille)
 - [5. Palkinnot](#5-palkinnot)
 - [6. Fandomin kasvukipuja](#6-fandomin-kasvukipuja)
 - [7. Lopuksi](#7-lopuksi)
@@ -180,7 +180,7 @@ Helsingin mafia joutui jo seuraavana vuonna vaihtamaan kokoontumispaikkaansa, ku
 
 Muualla maailmassa scifi-fandomiin kuuluu olennaisena osana sekalaisten pienten fanzine-lehtien teko, joiden taso yleensä on kovin kirjavaa. Suomessa suuria lehtiä tehtiin kuitenkin pääasiassa varsin vakavalla mielellä ja niiden taso pyrittiin säilyttämään korkeana. (Joitain pienempiä scifi-lehtiä, kuten Marvinia voidaan kyllä tosin kutsua myös fanzineiksi.) Muutaman helsinkiläisen harrastajan tekemä sisäpiirijutuilla täytetty Mundane sen sijaan lähti liikkeelle railakkaalla huumorimielellä 80-luvun loppupuolella. Se oli parin sivun kokoinen lehdykkä, jonka tarkoituksena oli ilmestyä Kantiksen mafiailtoina pari kertaa kuussa.
 
-## 4. ”Wonderful Finnish people!”[^63] – Yhteydet ulkomaille
+## 4. ”<span lang="en">Wonderful Finnish people!</span>”[^63] – Yhteydet ulkomaille
 
 Suomen fandom ylläpiti yhteyksiä ulkomaille alusta saakka. King-Con järjestettiin ruotsalaisten avulla ja vuonna 1983 ilmestyi ensimmäinen englanninkieleinen scifi-lehti, jonka tarkoitus oli tehdä suomalaista harrastusta tunnetuksi myös maan rajojen ulkopuolella. Lehti oli nimeltään Universal Mind, ja sen takana olivat Toni Jerrman ja Tuomas Kilpi. Yksittäiset harrastajat olivat toki vierailleet ulkomaisissa tapahtumissa jo kauan, mutta 80-luvun loppupuolella alettiin Suomesta lähteä myös joukolla ulkomaisiin scifi-coneihin.
 
@@ -188,7 +188,11 @@ Suomen fandom ylläpiti yhteyksiä ulkomaille alusta saakka. King-Con järjestet
 
 Suomalaista fandomia tehtiin tunnetuksi englanninkielisillä julkaisuilla, Brightonissa levitettiin Feast of Friends ‑lehteä ja Haagissa Kosmoskynän conia varten englanniksi kirjoitettua numeroa. Näissä esiteltiin suomalaista fandomia, sen historiaa ja luonnetta, sekä julkaistiin muutama suomalainen scifi-novelli. Suomalaisharrastajien keskuudessa vallitseva varsin yleinen persous alkoholille tuotiin myös esille. Feast of Friendsissä todettiin suomalaisista harrastajista mm. seuraavaa:
 
+<div lang="en">
+
 > *– – They all speak English and are ready to talk about anything, and to consume enormous amounts of alcohol beverages, even more enormous that the swedes…*[^65]
+
+</div>
 
 Confictionissa Haagissa 1990 suomalaiset noterattiin myös conin tunnistusoppaassa seuraavasti:
 
