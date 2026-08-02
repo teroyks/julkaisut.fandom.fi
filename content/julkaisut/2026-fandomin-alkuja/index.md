@@ -11,13 +11,13 @@ _Keskustelemassa Jukka Halme, Irma Hirsjärvi, Ben Roimola ja Tero Ykspetäjä._
 
 TY: Kaikki ollaan paikalla, niin voidaan aloittaa. Tervetuloa kuuntelemaan, kun me ja toivottavasti muutamat valikoidut yleisön edustajat myöskin keskustelevat ja muistelevat erinäköisiä lukuisia fandomin alkuja, joita tässä on vuosikymmenten varrella ollut. Eli aloitetaan sieltä päästä: kuka sä oot ja mitä sä teet?
 
-IH: Mä oon Hirsjärven Irma, ja helppo muistaa toi mun kutsumanimi Ipa. En osallistunut eilen naamiaisiin Hazy IPA -nimimerkillä, mutta oon Jyväskylästä, Jyväskylän Science Fiction Seura 42:n aktiivi, ollut puheenjohtaja ja tehnyt kaikenlaista.
+IH: Mä oon Hirsjärven Irma, ja helppo muistaa toi mun kutsumanimi Ipa. En osallistunut eilen naamiaisiin Hazy IPA ‑nimimerkillä, mutta oon Jyväskylästä, Jyväskylän Science Fiction Seura 42:n aktiivi, ollut puheenjohtaja ja tehnyt kaikenlaista.
 
 BR: Mä oon Ben Roimola, ja mun fandom-elämä alkoi joskus 80-luvun alkupuolella. Ja sit mä oon ollut Turun scifiseurassa sihteerinä ja Spin-lehden toimittajana, ja mä oon tehnyt omaa Enhörningen-lehteä ja yhtä sun toista.
 
-JH: Joo, mun nimi on Jukka Halme. Mä aloitin joskus 80-luvulla erinäköisillä asioilla, lukemalla ja kommentoimalla, kuvittamalla, ja sitten mitä pidemmälle tää harrastus meni, niin sitä enemmän sitä joutui – _pääsi_ - tekemään. Ja tuossa vuonna 2017 siirryin sitten virallisesti eläkkeelle, ja sen jälkeen oon tehnyt ainoastaan mukavia asioita, niin kuin maailman parasta science fiction -conia, Åconia.
+JH: Joo, mun nimi on Jukka Halme. Mä aloitin joskus 80-luvulla erinäköisillä asioilla, lukemalla ja kommentoimalla, kuvittamalla, ja sitten mitä pidemmälle tää harrastus meni, niin sitä enemmän sitä joutui – _pääsi_ – tekemään. Ja tuossa vuonna 2017 siirryin sitten virallisesti eläkkeelle, ja sen jälkeen oon tehnyt ainoastaan mukavia asioita, niin kuin maailman parasta science fiction ‑conia, Åconia.
 
-TY: Kyllä, Åcon on maailman paras science fiction -con.
+TY: Kyllä, Åcon on maailman paras science fiction ‑con.
 Mä olen Ykspetäjän Tero, ollut mukana täällä Turussa tuolta 80-luvun lopulta ja myöskin pyörinyt siellä täällä, tehnyt lehteä, seuraa, conia, kaikennäköistä tässä näin.
 
 Jos aloitetaan sillä, että Ipa, sulla on paleoliittinen julistus siellä, eikö ole?
@@ -28,7 +28,7 @@ TY: Eli historian hämäristä.
 
 IH: Tota niin, ne jotka ei tiedä, niin on tehty tämmöinen väitöskirja faniudesta. Tää ei oo fanihistoria, mutta tässä kerrotaan siitä, miten fanius kehittyy, miten se syntyy, miten se organisoituu. Ja kun tää porukka tähän laitettiin puhumaan aloituksista, niin me pohdittiin sitä, mitä me ollaan aloitettu. Ja kun me tiedetään niin tarkkaan, että ennen meitä on ollut niitä, jotka on aloittaneet koko homman, niin ajateltiin, että aloitetaan tämmöisellä paleoliittisella julistuksella, jonka ovat kirjoittaneet Juhani Hinkkanen ja Leena Peltonen. Kuinka moni tuntee nimet? _\[Useita käsiä nousee yleisössä.\]_ Aivan oikein. Hieno,. ei tarvitse erikseen esitellä. Juhani ja Leena ovat meidän fandomin tällaisia suuria hahmoja, ja tämä paleoliittinen julistus on tehty kutsumaan kokoon niitä ihmisiä, jotka ovat alun perin olleet tekemässä tätä fandomin ihan alkuvuosia. Ja tämä kuuluu näin:
 
-> "Toukokuussa 1982 järjestettiin ensimmäinen suomalainen science fiction -kongressi King-Con. Tämän merkkitapahtuman muistoksi olemme päättäneet panna alulle Dinosaurusklubin, ja sen jäseneksi voidaan kutsua henkilö, joka oli aktiivinen suomalaisessa skifitoiminnassa viimeistään King-Conissa. Aktiivisella tarkoitamme kirjoittelua ja kuvitus- ja toimitustyötä lehtiemme viimeistään King-Conissa julkistettuihin numeroihin, toimimista yhdistysten luottamustehtävissä ja muuta vaikuttamista yhdistysten ja fandomin syntyyn ja varhaiseen toimintaan Suomessa sekä käännöstöitä. Se, että olet vastaanottanut tämän kirjeen, tarkoittaa, että olet kutsuttu Dinosaurusklubin ainaisjäseneksi – muunlaisia ei ole. Kutsumme sinut myös Dinosaurusklubin ensi kokoontumiseen Vanhaan kuppilaan Finnconin aikaan nauttimaan lasillisen mielijuomaasi" – tää on tyypillinen sitten fandomille – "omalla kustannuksellasi valitettavasti, sillä Dinosaurusklubin budjetti on ja tulee varmasti iäti olemaan pelkästään imaginaarinen. Siellä, tai ehkä jo edellisenä päivänä, luovutamme sinulle myös Dinosaurusklubin badgen, jota odotamme sinun vastaisuudessa kaikissa skifitilanteissa ylpeydellä kantavan. Niille, jotka eivät saavu Finnconiin, se toimitetaan postitse. Ja sen badgen on suunnitellut Aura Ijäs, joka on dinosauruksen jälkeläinen suoraan alenevassa polvessa. Dinosaurusklubin jäsenillä ei ole mitään velvollisuuksia, ainoastaan rajaton oikeus levätä laakereillaan ja nauttia jälkeentulleiden ihailusta ja arvostuksesta, sikäli kuin nuo nousukkaat _\[viittaa panelisteihin\]_ omasta esihistoriastaan mitään ymmärtävät. Silloin kun klubi on koolla, tulee kaikki vanhat kiistat ja erimielisyydet jättää ulkopuolelle. Dinosaurusklubi muistelee menneitä sankariaikoja ja suhtautuu nisäkkäisiin hyväntahtoisella ylenkatseella. Dinosauruksia on vain rajallinen määrä, eikä uusia enää koskaan tule syntymään, joten muodostamme skifiyhteisöistä kaikkein eksklusiivisimman. Meitä odottaa väistämätön katoaminen maan kamaralta, mutta sitä ennen viettäkäämme riemukasta elämää kuin vielä voimme. Allekirjoitus: Juhani Hinkkanen ja Leena Peltonen."
+> ”Toukokuussa 1982 järjestettiin ensimmäinen suomalainen science fiction ‑kongressi King-Con. Tämän merkkitapahtuman muistoksi olemme päättäneet panna alulle Dinosaurusklubin, ja sen jäseneksi voidaan kutsua henkilö, joka oli aktiivinen suomalaisessa skifitoiminnassa viimeistään King-Conissa. Aktiivisella tarkoitamme kirjoittelua ja kuvitus- ja toimitustyötä lehtiemme viimeistään King-Conissa julkistettuihin numeroihin, toimimista yhdistysten luottamustehtävissä ja muuta vaikuttamista yhdistysten ja fandomin syntyyn ja varhaiseen toimintaan Suomessa sekä käännöstöitä. Se, että olet vastaanottanut tämän kirjeen, tarkoittaa, että olet kutsuttu Dinosaurusklubin ainaisjäseneksi – muunlaisia ei ole. Kutsumme sinut myös Dinosaurusklubin ensi kokoontumiseen Vanhaan kuppilaan Finnconin aikaan nauttimaan lasillisen mielijuomaasi” – tää on tyypillinen sitten fandomille – ”omalla kustannuksellasi valitettavasti, sillä Dinosaurusklubin budjetti on ja tulee varmasti iäti olemaan pelkästään imaginaarinen. Siellä, tai ehkä jo edellisenä päivänä, luovutamme sinulle myös Dinosaurusklubin badgen, jota odotamme sinun vastaisuudessa kaikissa skifitilanteissa ylpeydellä kantavan. Niille, jotka eivät saavu Finnconiin, se toimitetaan postitse. Ja sen badgen on suunnitellut Aura Ijäs, joka on dinosauruksen jälkeläinen suoraan alenevassa polvessa. Dinosaurusklubin jäsenillä ei ole mitään velvollisuuksia, ainoastaan rajaton oikeus levätä laakereillaan ja nauttia jälkeentulleiden ihailusta ja arvostuksesta, sikäli kuin nuo nousukkaat _\[viittaa panelisteihin\]_ omasta esihistoriastaan mitään ymmärtävät. Silloin kun klubi on koolla, tulee kaikki vanhat kiistat ja erimielisyydet jättää ulkopuolelle. Dinosaurusklubi muistelee menneitä sankariaikoja ja suhtautuu nisäkkäisiin hyväntahtoisella ylenkatseella. Dinosauruksia on vain rajallinen määrä, eikä uusia enää koskaan tule syntymään, joten muodostamme skifiyhteisöistä kaikkein eksklusiivisimman. Meitä odottaa väistämätön katoaminen maan kamaralta, mutta sitä ennen viettäkäämme riemukasta elämää kuin vielä voimme. Allekirjoitus: Juhani Hinkkanen ja Leena Peltonen.”
 
 _\[Liisa Rantalaiho saapuu paikalle.\]_
 
@@ -38,7 +38,7 @@ JH: Käpälää nyt ennemmin.
 
 IH: Käpälää.
 
-Ja tässä on monia nimiä, jotka tunnette eri yhteyksistä, ja sen takia tämä on katsaus suomalaiseen kulttuurihistoriaan. Kai Ekholm, Kari Ekqvist, Jaana Gustafsson, Markku Haapio, Harri Haarikko... Oli jo aamulla tuolla – – Ai, siellä! Oo vielä vähän aikaa pystyssä!
+Ja tässä on monia nimiä, jotka tunnette eri yhteyksistä, ja sen takia tämä on katsaus suomalaiseen kulttuurihistoriaan. Kai Ekholm, Kari Ekqvist, Jaana Gustafsson, Markku Haapio, Harri Haarikko… Oli jo aamulla tuolla – – Ai, siellä! Oo vielä vähän aikaa pystyssä!
 
 JH: Vielä elossa.
 
@@ -50,7 +50,7 @@ _\[aplodeja\]_
 
 IH: He olivat niitä, jotka aloittivat, ja me sitten jatkoimme.
 
-TY: Joo, kyllä. Eli alkuaikoina oli hyvin - ensin - hajanaista, mutta tämmöinen yhteisö, jos oikein oon ymmärtänyt, muodostui kuitenkin aika nopeasti. Ja nyt tietenkin Liisa ja Harri voivat vapaasti kommentoida, korjata, täydentää. Mutta siis tapahtui tämmöinen: ihmiset löysivät toisiaan. Alkoi tulla fanzineita, alkoi tulla tapaamisia, alkoi tulla kosteita illanviettoja, joista muun muassa – en tiedä saako sitä enää mistään - mutta Harri on kirjoittanut aivan mainion runon aikanaan science fictionin harrastamisesta, joka kiteyttää tätä olennaisesti. Onko sitä missään muualla kuin jossain obskuurissa…
+TY: Joo, kyllä. Eli alkuaikoina oli hyvin – ensin – hajanaista, mutta tämmöinen yhteisö, jos oikein oon ymmärtänyt, muodostui kuitenkin aika nopeasti. Ja nyt tietenkin Liisa ja Harri voivat vapaasti kommentoida, korjata, täydentää. Mutta siis tapahtui tämmöinen: ihmiset löysivät toisiaan. Alkoi tulla fanzineita, alkoi tulla tapaamisia, alkoi tulla kosteita illanviettoja, joista muun muassa – en tiedä saako sitä enää mistään – mutta Harri on kirjoittanut aivan mainion runon aikanaan science fictionin harrastamisesta, joka kiteyttää tätä olennaisesti. Onko sitä missään muualla kuin jossain obskuurissa…
 
 Harri Haarikko: Et kai sä multa kysy vaan, että muistanko mää tämmöistä?
 
@@ -62,7 +62,7 @@ TY Siis jos ei erikseen mainita kaupunkia, niin kirjamessuthan _on_ Turun kirjam
 
 IH: Sivumessuja.
 
-TY: Kyllä, jotka on sitten vienyt bisnekset ja kävijät ja tämmöiset, mutta...
+TY: Kyllä, jotka on sitten vienyt bisnekset ja kävijät ja tämmöiset, mutta…
 
 JH: Ai voi voi voi.
 
@@ -74,13 +74,13 @@ IH: Joo, en mä jatka tästä, mutta mulla on anekdootti, joka mulle kerrottiin 
 
 TY: Kehitystä on tapahtunut ainakin siinä mielessä, että meillä on niin paljon enemmän juttuja, että ei ihan niin helposti huomaa, mitä kaikkea me on unohdettu. Se on helpompi lakaista silleen maton alle.
 
-Joo, King-Con 82. Siitä seurasi Tamfan...
+Joo, King-Con 82. Siitä seurasi Tamfan…
 
 IH: Oliko Tamfan jo sitten? Koska mä mietin, että Suomen tieteiskirjoittajat organisoitui oikeastaan sitten jo 84.
 
 TY: Joo, kyllä.
 
-IH: Ja täällä on – tässä hienossa väitöskirjassa, mutta ehkä löydät jostakin – on Juhani Hinkkasen kuva, jossa on Suomen tieteiskirjoittajien, joka silloin oli vielä Suomen Science Fiction -kirjoittajat, perustamiskokouksen kuva Turun tuomiokirkon portailla. Ja siellä on paikalla Jyrki Ijäs, Kari Mäentaka, Pekka Sirkiä, Veikko Rekunen, Juha Keränen, Pekka Virtanen, Toni Jerrman, Tuomas Kilpi, Kivi Larmola ja Mika Niemi, Pekka Supinen, Anetta Mertaranta ja Harri Haarikko, ja Jussi-Ville Heiskanen saapui paikalle myöhemmin E.T.:ksi pukeutuneena. _\[naurua\]_
+IH: Ja täällä on – tässä hienossa väitöskirjassa, mutta ehkä löydät jostakin – on Juhani Hinkkasen kuva, jossa on Suomen tieteiskirjoittajien, joka silloin oli vielä Suomen Science Fiction ‑kirjoittajat, perustamiskokouksen kuva Turun tuomiokirkon portailla. Ja siellä on paikalla Jyrki Ijäs, Kari Mäentaka, Pekka Sirkiä, Veikko Rekunen, Juha Keränen, Pekka Virtanen, Toni Jerrman, Tuomas Kilpi, Kivi Larmola ja Mika Niemi, Pekka Supinen, Anetta Mertaranta ja Harri Haarikko, ja Jussi-Ville Heiskanen saapui paikalle myöhemmin E.T.:ksi pukeutuneena. _\[naurua\]_
 
 TY: Joo, ja Tieteiskirjoittajathan oli tämmöinen – toisin kuin nimestä voi päätellä – ei pelkästään kirjoittajien yhteisö, kirjoittajille tehty, vaan myöskin, niin kuin Juha tuolta varmaan ainakin muistaa vanhoja, jos haluat sanoa muutaman sanan, mutta tämmöinen, joka tuotiin kokoamaan eri paikkoihin, että se ei ollut tietyllä paikkakunnalla pelkästään toimiva, vaikka – niin kuin kaikki hyvät asiat – perustettiinkin Turussa. Mutta kuitenkin tarkoitus oli olla tämmöinen kansallinen yhteistyötapaaminen. Sieltä – haluatteko täydentää tähän?
 
@@ -90,7 +90,7 @@ BR: Niin, mutta olihan se kuitenkin alusta asti niin kuin just kirjoittajille, n
 
 TY: Mutta myöskin ehkä yks, mikä oli tyypillistä täällä fandomin alkuaikoina, oli että ne, jotka oli mukana enemmän tai vähemmän, aika moni teki itse, myöskin osallistui. Oli vähemmän ehkä sitä, että tullaan kattomaan valmista – vaan ollaan yhteisöä, osallistutaan, jokainen tekee omaa juttua, ollaan tekemässä.
 
-JH: Se on vähän se sama, mikä tuolla kansainvälisessä fandomissa aikoinaan oli: it's a lonely proud thing to be a fan. Elikä silloin oltiin – meitä oli vähän – no okei, en tietenkään ollut silloin vielä paikalla, kun kaikki oli todella vähäistä. Oli vähän ihmisiä, ja kaikki halusi tehdä jotain. Nykyäänhän se ei ole ollenkaan enää niin sanottu: fandom on laajentunut ja harrastuspiiri on laajentunut niin suureksi, että siinä ei välttämättä kaikille enää riitä sitä intoa tehdä edes mitään.
+JH: Se on vähän se sama, mikä tuolla kansainvälisessä fandomissa aikoinaan oli: <span lang="en">it’s a lonely proud thing to be a fan</span>. Elikä silloin oltiin – meitä oli vähän – no okei, en tietenkään ollut silloin vielä paikalla, kun kaikki oli todella vähäistä. Oli vähän ihmisiä, ja kaikki halusi tehdä jotain. Nykyäänhän se ei ole ollenkaan enää niin sanottu: fandom on laajentunut ja harrastuspiiri on laajentunut niin suureksi, että siinä ei välttämättä kaikille enää riitä sitä intoa tehdä edes mitään.
 
 BR: Mutta sitten taas samalla, niin kyllähän silloin alkuaikoina, kun Finncon kiersi kaupungista toiseen, aika pitkälle oli kans silleen – tai ainakin tämän henkilön mielestä näin oli – että jos mä nyt täällä Turussa olen järjestämässä Finnconia, niin sit mä voin Helsinkiin mennä vaan osallistumaan siihen Finnconiin, mun ei tarvi sitä tehdä. Mut Finnconin ympärille mun mielestä syntyi kans tämmönen oma fandominsa: on ne tyypit, jotka tykkää tehdä sitä conia, jotka tekee sitä sitten Helsingissä ja Jyväskylässä ja Tampereella ja on koko ajan mukana siinä tekemässä.
 
@@ -168,13 +168,13 @@ IH: Onko siitä kirjallisesti missään tallella tietoa?
 
 \[Kommentti yleisöstä\]: Joku lehti mun työpöydällä on sellainen, missä lukee Lauri Tudeer ja Seacon, ja sitten on Seaconin mainos ja siitä raportti.
 
-IH: Tämä on tärkeä juttu, koska alakerrassa – niin kuin nyt kaikki varmaan ovat käyneet siellä – siellä on tää näyttely, jossa kerätään... se on fandomhistoria, ja sieltä puuttuu paljon. Niin siellä on semmoinen laatikko, johon pyydän, että käyt tipauttamassa sen tiedon. Me ruvetaan keräämään Driveen nyt tätä historiikkia niin, että meillä olisi joka vuosi kumuloituva näyttely. Ja voitaisiin nostaa esiin näitä kymmenvuotistapahtumia, mitä meillä on – esimerkiksi erään harvinaisen tapahtuman kymmenvuotispäivä on ensi vuonna. _\[naurua\]_
+IH: Tämä on tärkeä juttu, koska alakerrassa – niin kuin nyt kaikki varmaan ovat käyneet siellä – siellä on tää näyttely, jossa kerätään… se on fandomhistoria, ja sieltä puuttuu paljon. Niin siellä on semmoinen laatikko, johon pyydän, että käyt tipauttamassa sen tiedon. Me ruvetaan keräämään Driveen nyt tätä historiikkia niin, että meillä olisi joka vuosi kumuloituva näyttely. Ja voitaisiin nostaa esiin näitä kymmenvuotistapahtumia, mitä meillä on – esimerkiksi erään harvinaisen tapahtuman kymmenvuotispäivä on ensi vuonna. _\[naurua\]_
 
 TY: Taas joudut muistelemaan sitä.
 
 JH: En joudu.
 
-IH: Eihän... Jukka on excused. Emme puhu Worldconista siis sanaakaan.
+IH: Eihän… Jukka on excused. Emme puhu Worldconista siis sanaakaan.
 
 JH: Niin, ja eihän siitä voi vielä olla kymmentä vuotta. _\[naurua\]_
 
@@ -200,11 +200,11 @@ JH: Silloin ei ollut vielä kameroita.
 
 BR: Niin niin just.
 
-TY: Niin, mutta tosiaan suomalainen porukka teki itsensä tunnetuksi useammassakin kansainvälisessä conissa. Löytyi mainintoja con-raporteista 80-luvun alusta, missä on: "suomalaisia on kauhea lössi, ne pukeutuvat mustiin ja ne juovat ihan hirvittävästi viinaa". _\[naurua\]_
+TY: Niin, mutta tosiaan suomalainen porukka teki itsensä tunnetuksi useammassakin kansainvälisessä conissa. Löytyi mainintoja con-raporteista 80-luvun alusta, missä on: ”suomalaisia on kauhea lössi, ne pukeutuvat mustiin ja ne juovat ihan hirvittävästi viinaa”. _\[naurua\]_
 
 TY: Kunniakkaat perinteet on siis olleet. Euroconissa 80-luvulla muistaakseni suomalaiset oli ylivoimaisesti suurin ulkomaalainen ryhmä. Ei meitä nyt ihan puolta conin väestöstä ollut, mutta kuitenkin merkittävä osuus.
 
-IH: Mehän tehtiin tää uudestaan Glasgow'ssa, eikö niin?
+IH: Mehän tehtiin tää uudestaan Glasgow’ssa, eikö niin?
 
 TY: No, siellä oli väkeä huomattavasti enemmän kyllä.
 
@@ -220,7 +220,7 @@ IH: Ruotsalaisille.
 
 \[Kommentti yleisöstä\]: Ruotsalaiset antoi meille puolukkamehua, koska meiltä loppui lantrinki. _\[naurua\]_
 
-BR: Mutta palatakseni – oliko se nyt sitten Linköping vai mikä – mutta jos nyt otetaan ihan tämmöinen muistelu, missä ainakin me kolme _\[viittaa Jukkaan ja Teroon\]_ ollaan oltu ihan mukanakin. Niin oli tää – ja tää kuitenkin on suht alkuvaiheessa fandomia, Suomen fandomhistoriaa – siinä vaiheessa kun porukka rupes käymään ruotsalaisissa coneissa. Ja siinä vaiheessa Finnconit sun muut pyöri jo täällä ihan kunnolla, eli me tiedettiin, miten con tehdään, mimmonen con on, mimmonen conin kuuluu olla. Sit me mennään Ruotsin coniin, joka oli Ruotsin länsirannikolla, muistaakseni...
+BR: Mutta palatakseni – oliko se nyt sitten Linköping vai mikä – mutta jos nyt otetaan ihan tämmöinen muistelu, missä ainakin me kolme _\[viittaa Jukkaan ja Teroon\]_ ollaan oltu ihan mukanakin. Niin oli tää – ja tää kuitenkin on suht alkuvaiheessa fandomia, Suomen fandomhistoriaa – siinä vaiheessa kun porukka rupes käymään ruotsalaisissa coneissa. Ja siinä vaiheessa Finnconit sun muut pyöri jo täällä ihan kunnolla, eli me tiedettiin, miten con tehdään, mimmonen con on, mimmonen conin kuuluu olla. Sit me mennään Ruotsin coniin, joka oli Ruotsin länsirannikolla, muistaakseni…
 
 JH: Joo, elikä mehän oltiin 2002 Linköpingissä Ryds herrgårdissa, joka on semmoinen huvila, jonne mahtui toistasataa ihmistä. Mutta 2003 me kolme mentiin sitten Göteborgiin.
 
@@ -242,23 +242,23 @@ JH: Joo, ikään kuin vähän tuotiin takaisin se 70–80-luvun alku. Se oli kad
 
 TY: Ipa, sulla oli tuohon äskeiseen.
 
-IH: Joo, tähän äskeiseen silleen, että tämä vaihto on ollut tosiaan sellaista verkottumista. Mä muistan, kun se oli varmaan 96 tai 97, mä menin Jyväskylän Kesän rahoilla tuonne Bergeniin. Mä tein Jyväskylän Kesän puheohjelman ja mä sain sitten sieltä matkarahoja. Ja siellä oli muistaakseni Eurocon, ja siellä oli noin 30 henkeä, jotka osallistui siihen coniin. Siellä oli semmoinen huone, missä oli myyjiä, ja ne myyjät olivat siellä silleen "ihan kiva, ihan kiva" – ei ollut ketään ostajia. Mutta melkein ne kaikki 30 oli eri maista. Siellä oli ehkä semmoinen kuusi–seitsemän–kahdeksan norjalaista, ja sitten oli koko se muu staffi siellä, jotka järjesteli sitä 30 hengen tapahtumaa, ympäri Eurooppaa. Ja tavallaan tämä vaihto meillä on tapahtunut: meidän kansainvälistyminen on tullut sieltä muualta, ja sitten meiltä taas on mennyt sitä mallia sinne.
+IH: Joo, tähän äskeiseen silleen, että tämä vaihto on ollut tosiaan sellaista verkottumista. Mä muistan, kun se oli varmaan 96 tai 97, mä menin Jyväskylän Kesän rahoilla tuonne Bergeniin. Mä tein Jyväskylän Kesän puheohjelman ja mä sain sitten sieltä matkarahoja. Ja siellä oli muistaakseni Eurocon, ja siellä oli noin 30 henkeä, jotka osallistui siihen coniin. Siellä oli semmoinen huone, missä oli myyjiä, ja ne myyjät olivat siellä silleen ”ihan kiva, ihan kiva” – ei ollut ketään ostajia. Mutta melkein ne kaikki 30 oli eri maista. Siellä oli ehkä semmoinen kuusi–seitsemän–kahdeksan norjalaista, ja sitten oli koko se muu staffi siellä, jotka järjesteli sitä 30 hengen tapahtumaa, ympäri Eurooppaa. Ja tavallaan tämä vaihto meillä on tapahtunut: meidän kansainvälistyminen on tullut sieltä muualta, ja sitten meiltä taas on mennyt sitä mallia sinne.
 
 <div lang="en">
 
-IH: At this point I would like to bring up Cheryl Morgan. Everybody knows Cheryl Morgan, but those of you who don't know: she's famous all around the globe – writer, critic, publisher, whatever. And I met Cheryl at – what was it, 2004? Maybe three or four – in the International Conference for the Fantastic in the Arts, which is sort of a Worldcon but about research, and it's a fabulous event. And we met with Cheryl there, and we became friends. And Cheryl came here the second year and has been in each Finncon every year – except one, perhaps. _\[aplodeja\]_
+IH: At this point I would like to bring up Cheryl Morgan. Everybody knows Cheryl Morgan, but those of you who don’t know: she’s famous all around the globe – writer, critic, publisher, whatever. And I met Cheryl at – what was it, 2004? Maybe three or four – in the International Conference for the Fantastic in the Arts, which is sort of a Worldcon but about research, and it’s a fabulous event. And we met with Cheryl there, and we became friends. And Cheryl came here the second year and has been in each Finncon every year – except one, perhaps. _\[aplodeja\]_
 
-Cheryl Morgan: Because they're good!
+Cheryl Morgan: Because they’re good!
 
 IH: And many of the connections – research, writing, writers, other people – have come here through Cheryl Morgan. So there is a huge impact here. Thank you so much. Sari?
 
-Sari Polvinen: Also, Cheryl's con reports were absolutely wonderful and invaluable for getting word out about Finncon.
+Sari Polvinen: Also, Cheryl’s con reports were absolutely wonderful and invaluable for getting word out about Finncon.
 
-IH: Absolutely. And I think there may be something to do with the spread of knowledge about Finnish science fiction, that Johanna Sinisalo got the James Tiptree Award. So I think that because you spread the knowledge about Finnish fantasy immediately, and you've done it around the globe, I think it's been very special. Thank you so much.
+IH: Absolutely. And I think there may be something to do with the spread of knowledge about Finnish science fiction, that Johanna Sinisalo got the James Tiptree Award. So I think that because you spread the knowledge about Finnish fantasy immediately, and you’ve done it around the globe, I think it’s been very special. Thank you so much.
 
 </div>
 
-TY: Harrilla oli siellä...
+TY: Harrilla oli siellä…
 
 Harri Haarikko: Legendaarinen kansainvälinen con, jota ei pidä unohtaa, oli 89 Eurocon Budapestissa, Unkarissa, jossa suomalaiset olivat hyvin aktiivisesti mukana. Se oli siitä poikkeava con, että siellä ei juotu mitään. _\[naurua\]_
 
@@ -270,7 +270,7 @@ IH: Miksi?
 
 TY: Kukaan ei muista juoneensa mitään siellä.
 
-BR: Niin just, sano uudestaan sen, koska mä muistan kans tän...
+BR: Niin just, sano uudestaan sen, koska mä muistan kans tän…
 
 \[Kommentti yleisöstä\]: Kitsi sössöröö, joka oli tapa juoda yhtä olutta Unkarissa.[^1]
 
@@ -314,7 +314,7 @@ BR: Näistä meistä.
 
 TY: Meistä tässä, niin.
 
-BR: Mun alku oli...
+BR: Mun alku oli…
 
 _\[Jukka antaa Benille kaksikymppisen.\]_
 
@@ -328,7 +328,7 @@ _\[Yleisöstä tuodaan Benille kaksikymppinen.\]_
 
 _\[naurua ja aplodeja\]_
 
-BR: No niin, nyt... Mun alku oli sinä aikana niin kuin se normaalein alku, ja nykyään ei varmaan ikinä enää tapahdu mitään tämmöstä: mä olin tilannut Aikakone-lehden, ja se oli Aikakone-lehden ihan siinä ensimmäisissä numeroissa – sanotaan ensimmäisen neljän numeron paikkeilla – oli jonkun Johanna Sinisalon lukijakirje, jossa hän... Nyt pahoittelen, etten mä saanut kaivettua esiin tätä juttua, että mistä siinä oikeastaan oli kyse. Mä luulen, että kyse oli fandomista ja coneista ja kirjoittamisesta ja kaikesta tämmöisestä. Ja mähän lähetin sit Aikakoneelle – kirjoitin siihen, en nyt vastinetta, mutta – –
+BR: No niin, nyt… Mun alku oli sinä aikana niin kuin se normaalein alku, ja nykyään ei varmaan ikinä enää tapahdu mitään tämmöstä: mä olin tilannut Aikakone-lehden, ja se oli Aikakone-lehden ihan siinä ensimmäisissä numeroissa – sanotaan ensimmäisen neljän numeron paikkeilla – oli jonkun Johanna Sinisalon lukijakirje, jossa hän… Nyt pahoittelen, etten mä saanut kaivettua esiin tätä juttua, että mistä siinä oikeastaan oli kyse. Mä luulen, että kyse oli fandomista ja coneista ja kirjoittamisesta ja kaikesta tämmöisestä. Ja mähän lähetin sit Aikakoneelle – kirjoitin siihen, en nyt vastinetta, mutta – –
 
 _\[Yleisöstä tuodaan Benille kaksikymppinen.\]_
 
@@ -336,27 +336,27 @@ _\[naurua\]_
 
 BR: Hei, mä syön tällä viikon!
 
-BR: – – mä kirjoitin oman vastineeni siihen ja lähetin sinne, ja sehän julkaistiin sitten Aikakone-lehdessä. Eli se oli...
+BR: – – mä kirjoitin oman vastineeni siihen ja lähetin sinne, ja sehän julkaistiin sitten Aikakone-lehdessä. Eli se oli…
 
 \[Yleisöstä vilautetaan satasta, mutta ei tuoda Benille: ”Tää menee rippilahjaksi”.\]
 
-– No niin, hyvä, on parempi niin. Eli siis se oli mun ensimmäinen tämmöinen kontakti fandomiin. Kirjallinen kontakti, koska silloin oli näitä kirjepalstoja lehdissä, ja niihin kirjoitettiin ja niitä luettiin ja silleen. Ensimmäinen tämmöinen ihmiskontakti tuli sitten vuodelta 84 ehkä, tai 83. Ensimmäinen – ei kun toinen – Huviretki tienpientareelle Tampereella. Ja mä olin lukenut siitä Portti-lehdestä, miten kivaa oli ollut viime vuonna, niin mähän sinne läksin mukaan. Ja kävelen Laukontorin rantaan ja katson, että täällä ei mitään ihmisiä näy – tos istuu joku tyyppi tossa laiturilla. Mä menin juttelemaan sitten tämän tyypin kanssa, joka oli Marko Mahnala, ja siitä lähtien ollaan Markon kanssa tunnettu. Ja sinne sit saareen mentiin yhdessä, ja siellä tavattiin paljon muita tyyppejä. Ja mä muistan, että kun näitä tyyppejä sit näki livenä, niin mun ensimmäinen reaktio oli se – ja saatoin Leena Peltoselle ja Raimo Nikkoselle jopa sanoakin – että "oho, tehän ootte kaikki ihan aikuisia ihmisiä, mä luulin, että olisitte kaikki mun ikäisiä". Ja tota noin, silloin olin alta kaksikymppinen reippaasti. Ja sieltä se läks. Ja silloin muistan, että siinä tilaisuudessa keskusteltiin vähän – Nikkonen ja Peltonen ja muut tamperelaiset siinä – että conia voisi lähteä järjestämään. Ja siitä tuli sitten Tamcon seuraavana vuonna, johon en ikävä kyllä päässyt, koska olin kesätöissä apteekissa. Joo, mut tämmöstä.
+– No niin, hyvä, on parempi niin. Eli siis se oli mun ensimmäinen tämmöinen kontakti fandomiin. Kirjallinen kontakti, koska silloin oli näitä kirjepalstoja lehdissä, ja niihin kirjoitettiin ja niitä luettiin ja silleen. Ensimmäinen tämmöinen ihmiskontakti tuli sitten vuodelta 84 ehkä, tai 83. Ensimmäinen – ei kun toinen – Huviretki tienpientareelle Tampereella. Ja mä olin lukenut siitä Portti-lehdestä, miten kivaa oli ollut viime vuonna, niin mähän sinne läksin mukaan. Ja kävelen Laukontorin rantaan ja katson, että täällä ei mitään ihmisiä näy – tos istuu joku tyyppi tossa laiturilla. Mä menin juttelemaan sitten tämän tyypin kanssa, joka oli Marko Mahnala, ja siitä lähtien ollaan Markon kanssa tunnettu. Ja sinne sit saareen mentiin yhdessä, ja siellä tavattiin paljon muita tyyppejä. Ja mä muistan, että kun näitä tyyppejä sit näki livenä, niin mun ensimmäinen reaktio oli se – ja saatoin Leena Peltoselle ja Raimo Nikkoselle jopa sanoakin – että ”oho, tehän ootte kaikki ihan aikuisia ihmisiä, mä luulin, että olisitte kaikki mun ikäisiä”. Ja tota noin, silloin olin alta kaksikymppinen reippaasti. Ja sieltä se läks. Ja silloin muistan, että siinä tilaisuudessa keskusteltiin vähän – Nikkonen ja Peltonen ja muut tamperelaiset siinä – että conia voisi lähteä järjestämään. Ja siitä tuli sitten Tamcon seuraavana vuonna, johon en ikävä kyllä päässyt, koska olin kesätöissä apteekissa. Joo, mut tämmöstä.
 
 TY: No niin, sitten olisiko vaikka Jukka siitä vierestä seuraava.
 
-JH: Niin, varmaan toi ensimmäinen kosketus oli kans siinä 80-luvun ihan alussa. Mulla on tämmöinen muistikuva, jonka luulen pitävän paikkansa, että Tähdet ja avaruus -lehdessä oli joitain tämmöisiä hyvin pieniä juttuja fandomista. Ne oli todella pieniä, semmoisia ihan, että tällainen mainitaan suurin piirtein. Ja sit siellä ruvettiin puhumaan siitä, että Ursa rupee julkaisemaan Aikakone-nimistä lehteä – niin tästähän piti ensimmäiseksi jo olla kiinnostunut, ja siitä lähtien lueskelin Aikakonetta. Ja sitten ystäväni – ei luokkatoveri, mutta lähes – Hannu "kallis maku" Lahtinen tilasi Porttia, joten sit mä pääsin tutustumaan Porttiin siinä samalla. Ja no, nää on ihan hauskoja juttuja. En mä silloin edes ajatellut, että mä lähtisin messiin yhtään mihinkään tällaiseen – sehän on ollut ihan hulluutta, herranen aika. Mutta tota, silleen tuli luettua, ja sitten tuli Tähtivaeltaja, ja Tähtivaeltaja oli jo paljon kiinnostavampi. Ja totesin, että nyt on niin hyvä lehti, että tarjoanpa heille omaa tuotantoani, ja lähetin päätoimittaja Jerrmanille kasan piirustuksia. Hän palautti suurimman osan niistä ja sanoi, että tosi hyviä, että kannattaa jatkaa harjoittelua – nappasin muutaman julkaisua varten. Joten vuoden 86 ensimmäisessä numerossa Tähtivaeltajaa – vihreä kansi, vihreä lisäväri – niin sieltä se mun ensimmäinen fandom-tuotantoni löytyy, sivulta viisi tai sivulta seitsemän, en ole ihan varma; ihan alusta löytyy. Tosi makea kuva.
+JH: Niin, varmaan toi ensimmäinen kosketus oli kans siinä 80-luvun ihan alussa. Mulla on tämmöinen muistikuva, jonka luulen pitävän paikkansa, että Tähdet ja avaruus ‑lehdessä oli joitain tämmöisiä hyvin pieniä juttuja fandomista. Ne oli todella pieniä, semmoisia ihan, että tällainen mainitaan suurin piirtein. Ja sit siellä ruvettiin puhumaan siitä, että Ursa rupee julkaisemaan Aikakone-nimistä lehteä – niin tästähän piti ensimmäiseksi jo olla kiinnostunut, ja siitä lähtien lueskelin Aikakonetta. Ja sitten ystäväni – ei luokkatoveri, mutta lähes – Hannu ”kallis maku” Lahtinen tilasi Porttia, joten sit mä pääsin tutustumaan Porttiin siinä samalla. Ja no, nää on ihan hauskoja juttuja. En mä silloin edes ajatellut, että mä lähtisin messiin yhtään mihinkään tällaiseen – sehän on ollut ihan hulluutta, herranen aika. Mutta tota, silleen tuli luettua, ja sitten tuli Tähtivaeltaja, ja Tähtivaeltaja oli jo paljon kiinnostavampi. Ja totesin, että nyt on niin hyvä lehti, että tarjoanpa heille omaa tuotantoani, ja lähetin päätoimittaja Jerrmanille kasan piirustuksia. Hän palautti suurimman osan niistä ja sanoi, että tosi hyviä, että kannattaa jatkaa harjoittelua – nappasin muutaman julkaisua varten. Joten vuoden 86 ensimmäisessä numerossa Tähtivaeltajaa – vihreä kansi, vihreä lisäväri – niin sieltä se mun ensimmäinen fandom-tuotantoni löytyy, sivulta viisi tai sivulta seitsemän, en ole ihan varma; ihan alusta löytyy. Tosi makea kuva.
 
 IH: Ne oli hyviä.
 
-JH: Mutta siitä lähti, eli kuvitin sitten erinäköisiä julkaisuja ja muita. Ensimmäisen kerran kävin science fiction -tapaamisessa 11. toukokuuta 1989 Helsingin mafiassa, joka oli silloin – ei Kantiksessa vaan Kannaksessa.
+JH: Mutta siitä lähti, eli kuvitin sitten erinäköisiä julkaisuja ja muita. Ensimmäisen kerran kävin science fiction ‑tapaamisessa 11. toukokuuta 1989 Helsingin mafiassa, joka oli silloin – ei Kantiksessa vaan Kannaksessa.
 
 TY: Ipa.
 
-IH: Järjestyksessä olisit sinä...
+IH: Järjestyksessä olisit sinä…
 
 TY: Ota sä nyt.
 
-IH: No joo, tota niin, mä teen tutkijan taipaleen. Opin lukemaan nelivuotiaana, ja silloin mä luin mitä luin. Mutta sitten tapasin Ray Bradburyn – ei kun tota niin...
+IH: No joo, tota niin, mä teen tutkijan taipaleen. Opin lukemaan nelivuotiaana, ja silloin mä luin mitä luin. Mutta sitten tapasin Ray Bradburyn – ei kun tota niin…
 
 JH: Tapasin Harry Harrisonin.
 
@@ -364,7 +364,7 @@ IH: En Harry Harrisonia – no, tapasin kyllä, mutta paljon myöhemmin. Mutta s
 
 Jussi Vainikainen: Siinä tapauksessa minä nostan Johanna Vainikaisen.
 
-IH: No niin, olit säkin ensimmäisiä. Hyvä. Ja tota niin, sitä oli kutsumassa kokoon – Ahosen Marko ei ehtinyt, vaan Kimmo Isokoski oli se, joka kutsui kokoon. Ja mä luulen, että mä menin toiseen kokoukseen sit sinne mukaan, ja oon sitten siellä ollut seuran jäsenenä ja seuran puheenjohtajana. Ja sitten vuonna 90 Jyväskylän Kesä -festivaalista soitettiin Helsinkiin Toni Jermanille, että meille tarvittaisiin nyt nuoriso-ohjelmaa, että olisiko teillä siellä sitä science fictionia. Ja Toni Jerman sanoi, että mitäs te tänne soittelette, että teillä on oma seura siellä. Ja sitten he ottivat yhteyttä Marko Ahoseen, joka oli silloin puheenjohtaja, ja sitten teimme sinne tapahtuman. Mä en tehnyt mitään – mä otin aurinkoa kotona, kuulkaa, mä en tiennyt mitään, mitä oli tapahtumassa. Ja Ian Watson oli siellä ihana vieras. Ja seuraavana vuonna sitten haluttiin lisää – –
+IH: No niin, olit säkin ensimmäisiä. Hyvä. Ja tota niin, sitä oli kutsumassa kokoon – Ahosen Marko ei ehtinyt, vaan Kimmo Isokoski oli se, joka kutsui kokoon. Ja mä luulen, että mä menin toiseen kokoukseen sit sinne mukaan, ja oon sitten siellä ollut seuran jäsenenä ja seuran puheenjohtajana. Ja sitten vuonna 90 Jyväskylän Kesä ‑festivaalista soitettiin Helsinkiin Toni Jermanille, että meille tarvittaisiin nyt nuoriso-ohjelmaa, että olisiko teillä siellä sitä science fictionia. Ja Toni Jerman sanoi, että mitäs te tänne soittelette, että teillä on oma seura siellä. Ja sitten he ottivat yhteyttä Marko Ahoseen, joka oli silloin puheenjohtaja, ja sitten teimme sinne tapahtuman. Mä en tehnyt mitään – mä otin aurinkoa kotona, kuulkaa, mä en tiennyt mitään, mitä oli tapahtumassa. Ja Ian Watson oli siellä ihana vieras. Ja seuraavana vuonna sitten haluttiin lisää – –
 
 \[Kommentti yleisöstä\]: Se oli 91?
 
@@ -378,7 +378,7 @@ Ja sitten oon ollut sekaantunut myös tähän meidän tutkijapuoleen. Meillä ol
 
 TY: No niin. Hienoa.
 
-IH: Sanon vielä yhden asian: rahoitus. Tämä aika loppuu kohta, mutta rahoitus on tärkeä. Me saatiin tää Finnconin rahoitus käyntiin sen takia, että me oltiin Jyväskylän Kesän osa. Me saatiin Suomen Kulttuurirahastolta isoa apurahaa siihen alkuun, ja sen takia me ollaan saatu myös tätä jatkumoa. Se oli hyvä onnenkantamoinen se Jyväskylän Kesä -yhteys.
+IH: Sanon vielä yhden asian: rahoitus. Tämä aika loppuu kohta, mutta rahoitus on tärkeä. Me saatiin tää Finnconin rahoitus käyntiin sen takia, että me oltiin Jyväskylän Kesän osa. Me saatiin Suomen Kulttuurirahastolta isoa apurahaa siihen alkuun, ja sen takia me ollaan saatu myös tätä jatkumoa. Se oli hyvä onnenkantamoinen se Jyväskylän Kesä ‑yhteys.
 
 Johanna Vainikainen: Mä haluaisin nostaa esille Suomen Tolkien-seuran merkityksen fandomille. Siis sehän sai lähtölaukauksen 90 Worldconissa Hollannissa – ensin perustettiin Legolas-lehti, ja sitten Tolkien-seura. Koska Tolkien-seura on ollut sellainen portti, jonka kautta on tullut fandomiin tosi paljon porukkaa, erityisesti naisia, jotka on olleet isossa roolissa järjestämässä tapahtumia ja muuta. Tolkien-seura oli ensimmäinen Tieteiskirjoittajien jälkeen koko Suomen laajuinen seura, joka houkutteli myös tyttöjä ihan eri tavalla kuin nää pelottavien mustapukuisten miesten pubitapaamiset.
 
