@@ -5,8 +5,8 @@ layout: layouts/base.njk
   <header>
     <h1>{{ title }}</h1>
     <p class="meta">
-      {% if author %}<span class="author">{{ author }}</span> ·{% endif %}
-      <time datetime="{{ page.date | isoDate }}">{{ page.date | formatDate }}</time>
+      {% if author %}<span class="author" data-pagefind-meta="author">{{ author }}</span> ·{% endif %}
+      <time datetime="{{ page.date | isoDate }}" data-pagefind-meta="date">{{ page.date | formatDate }}</time>
     </p>
   </header>
   {{ content | safe }}
