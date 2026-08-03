@@ -121,6 +121,20 @@ pagefind-summary {
   margin-block: 0.75rem 1rem;
 }
 
+/*
+ * Pagefind clips excerpts to one line (white-space: nowrap + ellipsis), which
+ * suits its dropdown but wastes the width of a results page. Its rules carry
+ * an :is(*, #\#) specificity hack: override properties with the same hack,
+ * so style.css rules take precedence (linked last).
+ */
+:is(*, #\#):is(*, #\#):is(*, #\#) .pf-result-excerpt {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  white-space: normal;
+  overflow: hidden;
+}
+
 body {
   max-width: 65ch;
   margin: 0 auto;
