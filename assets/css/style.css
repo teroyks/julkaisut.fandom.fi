@@ -101,6 +101,24 @@
   --pf-mark: var(--link);
   --pf-outline-focus: var(--link);
   --pf-font: system-ui, sans-serif;
+
+  /*
+   * Pagefind's defaults (12–14px, 8px gaps) are sized for its dropdown
+   * preset. On a full results page they read as a widget dropped onto the
+   * page, so scale them to sit with the 1.125rem body text.
+   */
+  --pf-summary-font-size: 0.875rem;
+  --pf-result-title-font-size: 1.125rem;
+  --pf-result-excerpt-font-size: 1rem;
+  --pf-results-gap: 1rem;
+  --pf-input-height: 44px;
+}
+
+/* Pagefind styles the inner .pf-summary, never the host — so spacing the
+ * results away from the input belongs here. */
+pagefind-summary {
+  display: block;
+  margin-block: 0.75rem 1rem;
 }
 
 body {
