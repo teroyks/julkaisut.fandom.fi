@@ -83,6 +83,26 @@
   }
 }
 
+/*
+ * Pagefind's search UI onto the site's tokens. Pagefind defines these on a
+ * plain :root, so this block wins on source order — which is why
+ * pagefind-component-ui.css is linked above style.css in the layout.
+ * Pagefind only goes dark via an explicit [data-pf-theme] attribute it never
+ * sets itself; mapping to tokens that already flip makes it follow the page.
+ */
+:root {
+  --pf-text: var(--text);
+  --pf-text-secondary: var(--text-muted);
+  --pf-text-muted: var(--text-muted);
+  --pf-background: var(--bg);
+  --pf-border: var(--border);
+  --pf-border-focus: var(--text-muted);
+  --pf-hover: var(--surface-muted);
+  --pf-mark: var(--link);
+  --pf-outline-focus: var(--link);
+  --pf-font: system-ui, sans-serif;
+}
+
 body {
   max-width: 65ch;
   margin: 0 auto;
