@@ -103,6 +103,10 @@ a:hover {
 }
 
 .site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   margin-bottom: 2rem;
   font-family: system-ui, sans-serif;
 }
@@ -114,6 +118,42 @@ a:hover {
 
 .site-header a:hover {
   text-decoration: underline;
+}
+
+/* Icon-only link: 44×44 hit area around a 20px glyph (WCAG 2.5.8) */
+.site-search {
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  inline-size: 44px;
+  block-size: 44px;
+  /* Pull the optical edge of the glyph back to the text margin */
+  margin-inline-end: -12px;
+  border-radius: 50%;
+}
+
+.site-search:hover {
+  color: var(--link-hover);
+  text-decoration: none;
+}
+
+.site-search:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
+/* Reachable by screen readers, absent from the visual layout */
+.visually-hidden {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
 
 h1,
