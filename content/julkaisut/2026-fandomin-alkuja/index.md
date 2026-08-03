@@ -174,7 +174,7 @@ TY: Taas joudut muistelemaan sitä.
 
 JH: En joudu.
 
-IH: Eihän… Jukka on excused. Emme puhu Worldconista siis sanaakaan.
+IH: Eihän… Jukka on <span lang="en">excused</span>. Emme puhu Worldconista siis sanaakaan.
 
 JH: Niin, ja eihän siitä voi vielä olla kymmentä vuotta. _\[naurua\]_
 
@@ -417,4 +417,3 @@ JH: Kiitos.
 TY: Kiitoksia kaikille. Kiitos fandomille.
 
 BR: Ne, jotka haluu kakskymppisensä takaisin, niin tulee täältä hakemaan. Muuten mä syön nää.
-
