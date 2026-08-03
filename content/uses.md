@@ -13,6 +13,8 @@ The toolchain behind this site — how these publications are built and served.
 
 - Articles written in [Markdown](https://daringfireball.net/projects/markdown/).
 - Footnotes via [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote).
+- Heading anchors via [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor),
+  with Finnish-aware slugs.
 
 ## Building
 
