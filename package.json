@@ -5,13 +5,16 @@
   "type": "module",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --serve"
+    "postbuild": "pagefind --site _site --force-language fi",
+    "start": "eleventy --serve",
+    "search:preview": "npm run build && pagefind --site _site --serve"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-plugin-rss": "^3.0.0",
     "markdown-it-anchor": "^9.2.1",
-    "markdown-it-footnote": "^4.0.0"
+    "markdown-it-footnote": "^4.0.0",
+    "pagefind": "^1.5.2"
   }
 }
