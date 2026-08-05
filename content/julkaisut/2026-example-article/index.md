@@ -2,6 +2,7 @@
 title: Example Article in English
 author: Jane Doe
 date: 2026-05-01
+added: 2026-07-28
 lang: en
 description: A sample article in English, demonstrating the per-article language override.
 eleventyExcludeFromCollections: true

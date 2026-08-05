@@ -2,6 +2,7 @@
 title: Näkymiä kabinetista
 author: Tero Ykspetäjä
 date: 2005-01-07
+added: 2026-08-03
 description: Historiikki Tutkan ensimmäisestä kymmenestä vuodesta
 ---
 

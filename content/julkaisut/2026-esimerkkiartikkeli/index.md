@@ -2,6 +2,7 @@
 title: Esimerkkiartikkeli
 author: Matti Meikäläinen
 date: 2026-06-15
+added: 2026-07-28
 description: Malliartikkeli, joka esittelee sivuston artikkelimuotoilun eli otsikot, kuvat, listat ja alaviitteet.
 eleventyExcludeFromCollections: true
 ---
@@ -47,3 +48,8 @@ näin.
 Artikkelin alussa olevassa etuaineistossa (front matter) määritellään
 otsikko, kirjoittaja ja päivämäärä. Muunkielisille artikkeleille voi
 lisätä `lang`-kentän, jolloin sivun kieliattribuutti vaihtuu.
+
+`date` on artikkelin alkuperäinen ilmestymispäivä, jonka mukaan
+artikkelit järjestetään sivustolla. `added`-kenttään merkitään päivä,
+jona artikkeli lisättiin sivustolle; syöte käyttää sitä, jotta vanhatkin
+artikkelit näkyvät tilaajille uusina.

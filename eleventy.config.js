@@ -1,9 +1,11 @@
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import rssPlugin from "@11ty/eleventy-plugin-rss";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
 
-import metadata from "./_data/metadata.js";
+// When an article appeared on the site. Falls back to its publication date so
+// that an article missing the field still lands somewhere sensible in the feed.
+const addedDate = (item) => item.data.added ?? item.date;
 
 export default function (eleventyConfig) {
   // Heading ids so articles can link to their own chapters (table of contents).
@@ -38,23 +40,10 @@ export default function (eleventyConfig) {
     },
   });
 
-  eleventyConfig.addPlugin(feedPlugin, {
-    type: "atom",
-    outputPath: "/feed.xml",
-    collection: {
-      name: "julkaisu",
-      limit: 0,
-    },
-    metadata: {
-      language: metadata.language,
-      title: metadata.title,
-      subtitle: metadata.description,
-      base: `${metadata.url}/`,
-      author: {
-        name: metadata.feed.author,
-      },
-    },
-  });
+  // Only the filters (dateToRfc3339, htmlBaseUrl); the feed itself is
+  // content/feed.njk, because articles are historical and the plugin's own
+  // template orders entries by their original publication date.
+  eleventyConfig.addPlugin(rssPlugin);
 
   eleventyConfig.addPassthroughCopy({ "assets/css": "css" });
   eleventyConfig.addPassthroughCopy({ "assets/fonts": "fonts" });
@@ -86,6 +75,15 @@ export default function (eleventyConfig) {
     }
     return [...byYear.entries()].map(([year, items]) => ({ year, items }));
   });
+
+  // Articles ordered by when they were added to the site, newest first, for
+  // the feed. `date` is an article's original publication date, which for
+  // historical material says nothing about when subscribers should hear of it.
+  eleventyConfig.addCollection("publicationsByAdded", (collectionsApi) =>
+    [...collectionsApi.getFilteredByTag("julkaisu")].sort(
+      (a, b) => addedDate(b) - addedDate(a) || b.date - a.date
+    )
+  );
 
   return {
     markdownTemplateEngine: "njk",

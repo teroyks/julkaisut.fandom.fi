@@ -2,6 +2,7 @@
 title: Fandomin alkuja
 author: keskustelijat
 date: 2026-07-12
+added: 2026-08-02
 description: Paneelikeskustelu Finnconissa
 ---
 

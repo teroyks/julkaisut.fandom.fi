@@ -2,6 +2,7 @@
 title: Suomalaisen science fiction ‑fandomin keskeisten piirteiden kehitys
 author: Kaisa Wuorinen
 date: 1998-05-05
+added: 2026-07-31
 description: Suomen historian proseminaarityö (Turun yliopisto)
 ---
 
