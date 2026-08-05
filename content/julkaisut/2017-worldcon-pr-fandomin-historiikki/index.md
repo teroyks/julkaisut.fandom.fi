@@ -3,7 +3,7 @@ title: Suomalaisen scififandomin lyhyt historia
 author: Vesa Sisättö
 date: 2017-03-01
 added: 2026-08-05
-description: Katsaus suomelaisen scififandomin historiaan, Worldcon 2017 progress report
+description: Katsaus suomalaisen scififandomin historiaan, Worldcon 2017 progress report
 ---
 _Julkaistu englanniksi Worldcon 75:n Progress Report #2 ja #3:ssa 2017.\
 Julkaisupäivämäärä on arvio._
