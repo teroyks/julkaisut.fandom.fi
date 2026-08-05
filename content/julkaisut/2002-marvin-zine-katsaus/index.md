@@ -3,6 +3,7 @@ title: Mitä kuuluu Epämääräisille Fanzineille?
 author: Vesa Sisättö
 date: 2002-08-01
 added: 2026-08-05
+description: Katsaus HySFKin klubihuoneelta löytyneisiin vanhoihin zineihin
 ---
 eli\
 Vertahyytävä Katsaus Scifipiirien Pienjulkaisuihin ja Niiden Julkaisijoihin.
