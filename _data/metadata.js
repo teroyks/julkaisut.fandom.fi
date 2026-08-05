@@ -1,5 +1,5 @@
 export default {
-  title: "Fandom.fi – Julkaisuja",
+  title: "Suomen science fiction ‑fandomin julkaisuja",
   description:
     "Kokoelma artikkeleita suomalaisesta science fiction ‑fandomista ja sen historiasta",
   url: "https://julkaisut.fandom.fi",
