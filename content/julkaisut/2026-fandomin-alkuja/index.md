@@ -6,9 +6,8 @@ added: 2026-08-02
 description: Paneelikeskustelu Finnconissa
 ---
 
-_Paneelikeskustelu [Finncon 2026:ssa](https://2026.finncon.org/) Turussa 12.7.2026._
-
-_Keskustelemassa Jukka Halme, Irma Hirsjärvi, Ben Roimola ja Tero Ykspetäjä._
+_Paneelikeskustelu [Finncon 2026:ssa](https://2026.finncon.org/) Turussa 12.7.2026.\
+Keskustelemassa Jukka Halme, Irma Hirsjärvi, Ben Roimola ja Tero Ykspetäjä._
 
 TY: Kaikki ollaan paikalla, niin voidaan aloittaa. Tervetuloa kuuntelemaan, kun me ja toivottavasti muutamat valikoidut yleisön edustajat myöskin keskustelevat ja muistelevat erinäköisiä lukuisia fandomin alkuja, joita tässä on vuosikymmenten varrella ollut. Eli aloitetaan sieltä päästä: kuka sä oot ja mitä sä teet?
 

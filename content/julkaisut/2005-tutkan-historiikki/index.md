@@ -6,10 +6,10 @@ added: 2026-08-03
 description: Historiikki Tutkan ensimmäisestä kymmenestä vuodesta
 ---
 
+Tutkan lyhyt historiikki
+
 _Julkaistu ensimmäisen kerran yhdistyksen kymmenvuotisjuhlan kunniaksi
 ja uudelleenjulkaistu Egopuu-fanzinessa Finncon 2024:ssä_
-
-Tutkan lyhyt historiikki
 
 ## Tie Tutkaan
 
