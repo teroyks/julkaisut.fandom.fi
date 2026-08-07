@@ -17,4 +17,4 @@ Julkaistu tekijöiden luvalla.
 
 ## Yhteystiedot
 
-<p>Tätä sivustoa ylläpitää Tero Ykspetäjä, &lt;&#116;&#101;&#114;&#111;&#64;&#102;&#97;<span style="display:none;">a</span>&#110;&#100;&#111;&#109;&#46;&#102;&#105;&gt;.</p>
+Tätä sivustoa ylläpitää Tero Ykspetäjä, <julkaisut26@fandom.fi>.
