@@ -24,15 +24,13 @@ export default function (eleventyConfig) {
         eleventyConfig.getFilter("slugify")(s, {
           customReplacements: finnishReplacements,
         }),
-      // A "#" after each heading, revealed on hover, linking to the heading
-      // itself. It is a pointer affordance duplicating the address bar, so it
-      // is hidden from assistive tech — and taken out of the tab order to
-      // match, since a focusable aria-hidden element is an accessibility bug.
-      // Ignored by Pagefind so the symbol stays out of search excerpts.
+      // A "#" before each heading, hung in the margin by the stylesheet and
+      // revealed on hover or focus, linking to the heading itself. The label
+      // is what keyboard and screen reader users get instead of the bare
+      // symbol, which would otherwise announce as "number sign".
       permalink: markdownItAnchor.permalink.linkInsideHeader({
-        ariaHidden: true,
         placement: "before",
-        renderAttrs: () => ({ tabindex: -1, "data-pagefind-ignore": "" }),
+        renderAttrs: () => ({ "aria-label": "Linkki tähän lukuun" }),
       }),
     })
   );

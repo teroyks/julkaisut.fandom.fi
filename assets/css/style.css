@@ -295,6 +295,12 @@ h3 {
   :is(h2, h3):hover > .header-anchor {
     opacity: 1;
   }
+
+  .header-anchor:focus-visible {
+    opacity: 1;
+    outline: 2px solid var(--link);
+    outline-offset: 2px;
+  }
 }
 
 /* Wide touch screens never hover — show it faintly rather than never */
