@@ -5,8 +5,6 @@ description: The tools used to build and publish this site.
 layout: layouts/base.njk
 ---
 
-# Uses
-
 The toolchain behind this site — how these publications are built and served.
 
 ## Content
