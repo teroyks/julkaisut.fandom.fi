@@ -2,7 +2,7 @@
 title: Uses
 lang: en
 description: The tools used to build and publish this site.
-layout: layouts/base.njk
+layout: layouts/page.njk
 ---
 
 The toolchain behind this site — how these publications are built and served.

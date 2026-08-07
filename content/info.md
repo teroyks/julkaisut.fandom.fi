@@ -1,7 +1,7 @@
 ---
 title: Info
 description: Tietoa sivustosta.
-layout: layouts/base.njk
+layout: layouts/page.njk
 ---
 
 ## Tarkoitus
