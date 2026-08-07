@@ -54,7 +54,9 @@ TY: Joo, kyllä. Eli alkuaikoina oli hyvin – ensin – hajanaista, mutta tämm
 
 Harri Haarikko: Et kai sä multa kysy vaan, että muistanko mää tämmöistä?
 
-TY: Se oli hieno. Se julkaistiin jonkun kirjamessujen yhteydessä muistaakseni 90-luvulla.
+TY: Se oli hieno. Se julkaistiin jonkun kirjamessujen yhteydessä muistaakseni 90-luvulla.[^haarikko-runo]
+
+[^haarikko-runo]: Kyseinen runo, _Science fiction?, tai, ei kiitos, kaada itselles vaan_, on julkaistu Spin-lehden numerossa 6/1994.
 
 IH: Sen täytyy olla Turun kirjamessuilla.
 
@@ -166,7 +168,9 @@ BR: Joo, totta.
 
 IH: Onko siitä kirjallisesti missään tallella tietoa?
 
-\[Kommentti yleisöstä\]: Joku lehti mun työpöydällä on sellainen, missä lukee Lauri Tudeer ja Seacon, ja sitten on Seaconin mainos ja siitä raportti.
+\[Kommentti yleisöstä\]: Joku lehti mun työpöydällä on sellainen, missä lukee Lauri Tudeer ja Seacon, ja sitten on Seaconin mainos ja siitä raportti.[^tudeer-seacon]
+
+[^tudeer-seacon]: Asiasta löytyy maininta Spin-lehdestä vuodelta 1979.
 
 IH: Tämä on tärkeä juttu, koska alakerrassa – niin kuin nyt kaikki varmaan ovat käyneet siellä – siellä on tää näyttely, jossa kerätään… se on fandomhistoria, ja sieltä puuttuu paljon. Niin siellä on semmoinen laatikko, johon pyydän, että käyt tipauttamassa sen tiedon. Me ruvetaan keräämään Driveen nyt tätä historiikkia niin, että meillä olisi joka vuosi kumuloituva näyttely. Ja voitaisiin nostaa esiin näitä kymmenvuotistapahtumia, mitä meillä on – esimerkiksi erään harvinaisen tapahtuman kymmenvuotispäivä on ensi vuonna. _\[naurua\]_
 
@@ -272,9 +276,9 @@ TY: Kukaan ei muista juoneensa mitään siellä.
 
 BR: Niin just, sano uudestaan sen, koska mä muistan kans tän…
 
-\[Kommentti yleisöstä\]: Kitsi sössöröö, joka oli tapa juoda yhtä olutta Unkarissa.[^1]
+\[Kommentti yleisöstä\]: Kitsi sössöröö, joka oli tapa juoda yhtä olutta Unkarissa.[^yleisökommentti]
 
-[^1]: Tässä kohtaa yleisökommentti oli epäselvä ja peittyi osittain naurun alle, joten ylös kirjattu ei välttämättä vastaa sataprosenttisesti todellisuutta.
+[^yleisökommentti]: Tässä kohtaa yleisökommentti oli epäselvä ja peittyi osittain naurun alle, joten ylös kirjattu ei välttämättä vastaa sataprosenttisesti todellisuutta.
 
 TY: Luulen, että Unkarin Eurocon oli just tämä, missä suomalaisia oli suurin piirtein puolet koko conista, koska se oli pieni con. Ja sitten paikalliset – eikö tää ollut just se Däniken? – paikalliset oli kovin ihmeissään, kun kukaan suomalainen ei olisi voinut olla vähempää kiinnostunut jostain hörhötyypistä, jonka ne oli innoissaan kutsuneet kunniavieraaksi.
 
