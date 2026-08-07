@@ -266,6 +266,44 @@ h3 {
   margin-block: 2em 0.6em;
 }
 
+/*
+ * Permalink to a heading, hung in the left margin so it lands in the same
+ * place whatever the heading length. It needs a margin to hang into, so it
+ * appears only once the viewport clears the 65ch measure plus a gutter —
+ * narrower than that there is nowhere to put it. Faded rather than removed,
+ * so revealing it on hover does not reflow the heading.
+ */
+.header-anchor {
+  display: none;
+}
+
+@media (min-width: 45rem) {
+  :is(h2, h3) {
+    position: relative;
+  }
+
+  .header-anchor {
+    display: inline;
+    position: absolute;
+    inset-inline-end: 100%;
+    padding-inline-end: 0.35em;
+    color: var(--text-muted);
+    text-decoration: none;
+    opacity: 0;
+  }
+
+  :is(h2, h3):hover > .header-anchor {
+    opacity: 1;
+  }
+}
+
+/* Wide touch screens never hover — show it faintly rather than never */
+@media (min-width: 45rem) and (hover: none) {
+  .header-anchor {
+    opacity: 0.5;
+  }
+}
+
 article {
   hyphens: auto;
   hyphenate-limit-chars: 6 3 2;

@@ -24,6 +24,16 @@ export default function (eleventyConfig) {
         eleventyConfig.getFilter("slugify")(s, {
           customReplacements: finnishReplacements,
         }),
+      // A "#" after each heading, revealed on hover, linking to the heading
+      // itself. It is a pointer affordance duplicating the address bar, so it
+      // is hidden from assistive tech — and taken out of the tab order to
+      // match, since a focusable aria-hidden element is an accessibility bug.
+      // Ignored by Pagefind so the symbol stays out of search excerpts.
+      permalink: markdownItAnchor.permalink.linkInsideHeader({
+        ariaHidden: true,
+        placement: "before",
+        renderAttrs: () => ({ tabindex: -1, "data-pagefind-ignore": "" }),
+      }),
     })
   );
 
