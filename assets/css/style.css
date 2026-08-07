@@ -69,6 +69,10 @@
   --border: var(--paper-400);
   --link: var(--rust-600);
   --link-hover: var(--rust-700);
+
+  /* Typography — chrome and metadata are sans, body text is Literata */
+  --font-ui: system-ui, sans-serif;
+  --font-size-small: 0.8125rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -100,7 +104,7 @@
   --pf-hover: var(--surface-muted);
   --pf-mark: var(--link);
   --pf-outline-focus: var(--link);
-  --pf-font: system-ui, sans-serif;
+  --pf-font: var(--font-ui);
 
   /*
    * Pagefind's defaults (12–14px, 8px gaps) are sized for its dropdown
@@ -160,7 +164,7 @@ a:hover {
   justify-content: space-between;
   gap: 1rem;
   margin-bottom: 2rem;
-  font-family: system-ui, sans-serif;
+  font-family: var(--font-ui);
 }
 
 .site-header a {
@@ -212,8 +216,8 @@ a:hover {
 .site-footer {
   margin-block-start: 3rem;
   border-block-start: 1px solid var(--border);
-  font-family: system-ui, sans-serif;
-  font-size: 0.8125rem;
+  font-family: var(--font-ui);
+  font-size: var(--font-size-small);
 }
 
 .site-footer a {
@@ -268,8 +272,8 @@ article {
 }
 
 article .meta {
-  font-family: system-ui, sans-serif;
-  font-size: 0.8125rem;
+  font-family: var(--font-ui);
+  font-size: var(--font-size-small);
   color: var(--text-muted);
 }
 
@@ -324,8 +328,8 @@ article hr::after {
 }
 
 .publication-list .author {
-  font-size: 0.8125rem;
-  font-family: system-ui, sans-serif;
+  font-size: var(--font-size-small);
+  font-family: var(--font-ui);
   color: var(--text-muted);
 }
 
