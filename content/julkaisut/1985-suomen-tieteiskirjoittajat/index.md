@@ -4,9 +4,10 @@ author: Juhani Hinkkanen
 date: 1985-06-01
 added: 2026-08-10
 description: Suomen tieteiskirjoittajien perustamisseikkailuja
+originalPublication: Pulsari, kesäkuu 1985
+originalSite: Hinkkasen arkisto
+originalURL: https://www.aikakone.org/juhani/arkisto/tieteiskirjoittajat.html
 ---
-
-[originaaliversio](https://www.aikakone.org/juhani/arkisto/tieteiskirjoittajat.html) – Hinkkasen arkisto
 
 _Tämä teksti julkaistiin Sid Sid Keräsen (tuolloin vielä Juha Keränen) lyhentämänä ja editoimana (retusoituna ja raiskattuna, kuten hän itse asian ilmaisi) hänen lehdessään Pulsarissa kesäkuussa 1985. Lopullinen käsikirjoitukseni on aikaa sitten kadonnut mutta onnistuin löytämään varhaisemman luonnosversion (josta tosin puuttuu yksi liuska), jonka pohjalta olen yrittänyt restauroida jutun lähelle alkuperäistä muotoaan. Vuoden 1997 kommentit ovat sulkeissa ja kursivoituina._
 
