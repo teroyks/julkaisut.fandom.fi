@@ -5,6 +5,7 @@ date: 2002-08-01
 added: 2026-08-05
 description: Katsaus HySFKin klubihuoneelta löytyneisiin vanhoihin zineihin
 ---
+
 eli\
 Vertahyytävä Katsaus Scifipiirien Pienjulkaisuihin ja Niiden Julkaisijoihin.
 
@@ -16,7 +17,7 @@ Oikeastaan kadun sitä, että koskaan tulin ottaneeksi jutun vastaan. Yritys sel
 Perusasiat olivat aluksi selviä:
 
 (1) Klubin arkistoissa on lukuisia pieniä ”fanzineja” ja\
-(2) Näitä lehdyköitä on julkaissut vuosia sitten ja osin julkaisee edelleenkin  joukko erilaisia scifistisiä ryhmittymiä\
+(2) Näitä lehdyköitä on julkaissut vuosia sitten ja osin julkaisee edelleenkin joukko erilaisia scifistisiä ryhmittymiä\
 Selvittämättä oli kuitenkin:\
 (3) Mikä on näiden ”fanzineiden” keskeinen sisältö?\
 (4) Vaikuttavatko niitä julkaisseet seurat edelleenkin keskuudessamme?\
@@ -47,12 +48,12 @@ Kakkosnumero on, jos mahdollista vieläkin sekavampi, tosin viittaukset muihin s
 
 ## Huorrrra!
 
-Julkaisija Suomen Toni Jerrman Seura. Lehti sisältää muun muassa Toni Jerrmanin haastattelun, Toni Jerrmanin novelleja, Toni Jerrman ‑aiheisen sarjakuvan ja Toni Jerrmanin rääpäleitä. Lehteä elävöittävät myös lainaukset Jim Morrisonin runoudesta: C’mon yeah…/ Yeah, yeah, /Yeah, yeah, /Yeah, yeah. 
+Julkaisija Suomen Toni Jerrman Seura. Lehti sisältää muun muassa Toni Jerrmanin haastattelun, Toni Jerrmanin novelleja, Toni Jerrman ‑aiheisen sarjakuvan ja Toni Jerrmanin rääpäleitä. Lehteä elävöittävät myös lainaukset Jim Morrisonin runoudesta: C’mon yeah…/ Yeah, yeah, /Yeah, yeah, /Yeah, yeah.
 
-Ote haastattelusta: ”Dick nyt oli vain sellainen hetken muoti-ilmiö. Oikeastaan koko mies oli sellaista tekotaiteellista paskaa, kun tarkemmin ajattelee. – – Mun [tulevassa radio]sarjassa keskitytään vain todella SUURIIN klassikoihin ja koviin scifikirjoittajiin niin kuin Asimov, Heinlein, Hubbard ja Clarke. Ja tietenkin Tolkien ja Eddings.” 
+Ote haastattelusta: ”Dick nyt oli vain sellainen hetken muoti-ilmiö. Oikeastaan koko mies oli sellaista tekotaiteellista paskaa, kun tarkemmin ajattelee. – – Mun [tulevassa radio]sarjassa keskitytään vain todella SUURIIN klassikoihin ja koviin scifikirjoittajiin niin kuin Asimov, Heinlein, Hubbard ja Clarke. Ja tietenkin Tolkien ja Eddings.”
 
 Huorrrra! on vaarallisen ilmiön airut 9 vuoden takaa. Jollei mitään tehdä (kuten luulen) tulevaisuudessa kaikilla scififandomin jäsenillä on oma seuransa ja lehtensä. Voitte vain kuvitella…
- 
+
 ## Zombie-klubin julkaisut
 
 Kuten Zombiekonevaeltaja, Zombiekalenteri ja oli kai jokin Zombiemarvinkin. Zombieklubi on kuollut, mutta ikävä kyllä elää yhä. Ja päinvastoin. Näiden lähes läpinäkyvän ohuiden kavereiden yhtä ohut salaus paljastaa porukan halun muuttaa koko maailma elävienkuolleiden paratiisiksi, syödä kaikkien aivot ja harrastaa ruumiiden kanssa seksiä (ennen, jälkeen tai samanaikaisesti). Toisaalta mielen kanssa on vaikea sekstata.
@@ -95,5 +96,6 @@ Miten salaseurojen uhkaan sitten tulisi reagoida? Tietenkin perustamalla lisää
 
 Nyt täytyy lopettaa, joku on ovella.
 
-[^1]: Hämmentävintä koko selvitystyössä oli se, että fanzineita näyttivät julkaisseen henkilöt, jotka tunsin – jos he nyt käyttävät oikeita nimiään. Ja jos he nyt ovat laittaneet oikeat nimensä – siis ne, joilla he tänä päivänä esiintyvät – lehtisiinsä. On täysin mahdollista, että fanzineita ovat julkaisseet täysin toiset – en tiedä onko minulla tarpeeksi todistusaineistoa käyttää tässä yhteydessä nimitystä ”ihminen”, mutta menköön – ihmiset, joilla on ollut sama nimi, tai sitten kolmannet, jotka käyttävät samoja nimiä kuin nykyisin tuntemani. Voi myös olla, että esimerkiksi ”Jukka Halme” onkin se ”Marko Kivelä”, jonka nykyään tunnen – tai päinvastoin. Tai sitten kyse on aivan toisista (tai kolmansista) ihmisistä, jotka käyttävät samoja nimiä, jatkuvasti tai ajoittain. 
-Ymmärrätte kai miksi kyseessä voi olla turvallisuusuhka?
+[^1]:
+    Hämmentävintä koko selvitystyössä oli se, että fanzineita näyttivät julkaisseen henkilöt, jotka tunsin – jos he nyt käyttävät oikeita nimiään. Ja jos he nyt ovat laittaneet oikeat nimensä – siis ne, joilla he tänä päivänä esiintyvät – lehtisiinsä. On täysin mahdollista, että fanzineita ovat julkaisseet täysin toiset – en tiedä onko minulla tarpeeksi todistusaineistoa käyttää tässä yhteydessä nimitystä ”ihminen”, mutta menköön – ihmiset, joilla on ollut sama nimi, tai sitten kolmannet, jotka käyttävät samoja nimiä kuin nykyisin tuntemani. Voi myös olla, että esimerkiksi ”Jukka Halme” onkin se ”Marko Kivelä”, jonka nykyään tunnen – tai päinvastoin. Tai sitten kyse on aivan toisista (tai kolmansista) ihmisistä, jotka käyttävät samoja nimiä, jatkuvasti tai ajoittain.
+    Ymmärrätte kai miksi kyseessä voi olla turvallisuusuhka?

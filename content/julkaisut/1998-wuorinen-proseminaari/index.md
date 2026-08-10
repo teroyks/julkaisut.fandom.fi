@@ -31,9 +31,9 @@ description: Suomen historian proseminaarityö (Turun yliopisto)
 
 Proseminaarityöni tarkoituksena on esittää suomalaisen science fiction ‑fandomin keskeisten piirteiden kehitys. Olen rajannut työni ajallisesti alkamaan noin 70-luvun puolestavälistä ja ulottumaan suurin piirtein 90-luvun alkuvuosiin, sillä silloin voidaan katsoa kaikkien tärkeimpien piirteiden kehittyneen suht’ vakiintuneeseen muotoonsa, jollaisessa ne tämän päivän fandomissa myös esiintyvät. Nämä keskeiset piirteet ovat science fiction ‑seurat, ‑lehdet, tapahtumat, suhteet ulkomaille ja palkinnot. Kovin yksityiskohtaisesti en aio paneutua eri seurojen toimintaa, tarkoituksenani on luoda kehityksestä ennemminkin yleiskuva.[^1]
 
-Työssä esiintyy jonkin verran erityissanastoa, jota lienee syytä selventää. *Fandomilla* tarkoitetaan tieteis- ja fantasiakirjallisuuden sekä elokuvien aktiivista harrastajakuntaa, joka ylläpitää yhteyttä toisiinsa erilaisten seurojen, harrastajalehtien ja kongressien välityksellä. Näitä kongresseja kutsutaan maailmalla nimellä convention, josta käytetään yleensä lyhennettä con. Tämä lyhenne on vakiintunut myös Suomeen. Lehdissä harrastajat kommunikoivat, julkaisevat omia aikaansaannoksiaan (novelleja, kuvitusta, sarjakuvia jne.) ja levittävät tietoutta harrastuksestaan. Fandomin tarkoituksena on sekä levittää tietoa science fictionista että tarjota seurustelumuoto sitä harrastaville.[^2]
+Työssä esiintyy jonkin verran erityissanastoa, jota lienee syytä selventää. _Fandomilla_ tarkoitetaan tieteis- ja fantasiakirjallisuuden sekä elokuvien aktiivista harrastajakuntaa, joka ylläpitää yhteyttä toisiinsa erilaisten seurojen, harrastajalehtien ja kongressien välityksellä. Näitä kongresseja kutsutaan maailmalla nimellä convention, josta käytetään yleensä lyhennettä con. Tämä lyhenne on vakiintunut myös Suomeen. Lehdissä harrastajat kommunikoivat, julkaisevat omia aikaansaannoksiaan (novelleja, kuvitusta, sarjakuvia jne.) ja levittävät tietoutta harrastuksestaan. Fandomin tarkoituksena on sekä levittää tietoa science fictionista että tarjota seurustelumuoto sitä harrastaville.[^2]
 
-*Science fictionin* määritteleminen tarkasti on hankalaa, mutta yleisesti ottaen voidaan sanoa sen olevan spekulatiivista kerrontaa, jossa esiintyy jokin sellainen elementti, joka poikkeaa normaalista, tuntemastamme maailmasta. Useimmiten tällainen elementti on esimerkiksi jokin tieteellinen keksintö, jollaista nykytiede ei vielä tunne. Tiede tässä tapauksessa voi olla yhtä hyvin niin lääketiede, tähtitiede kuin filosofiakin. Tieteistarina on sekoitus tiedettä, satua ja todellisuutta. Se voi sijoittua menneisyyteen, tulevaisuuteen, nykyhetkeen, tai täysin kuvitteelliseen ympäristöön.
+_Science fictionin_ määritteleminen tarkasti on hankalaa, mutta yleisesti ottaen voidaan sanoa sen olevan spekulatiivista kerrontaa, jossa esiintyy jokin sellainen elementti, joka poikkeaa normaalista, tuntemastamme maailmasta. Useimmiten tällainen elementti on esimerkiksi jokin tieteellinen keksintö, jollaista nykytiede ei vielä tunne. Tiede tässä tapauksessa voi olla yhtä hyvin niin lääketiede, tähtitiede kuin filosofiakin. Tieteistarina on sekoitus tiedettä, satua ja todellisuutta. Se voi sijoittua menneisyyteen, tulevaisuuteen, nykyhetkeen, tai täysin kuvitteelliseen ympäristöön.
 
 Väljästi ymmärrettynä tieteiskirjallisuus ulottaa juurensa vuosituhansien taakse. Sen alku voidaan sijoittaa antiikin fantasiatarinoihin saakka, kuten vaikka {% nimi "Homeroksen", "Homeros" %} {% nimi "Odysseykseen", "Odysseia" %} tai Platonin Valtioon, tai vieläkin kauemmaksi, aina Gilgames-eepokseen saakka.[^3] Monesti science fictionin piiriin otetaan myös mukaan lähialue fantasia. Tässä työssä käytän science fictionista myös sen vakiintuneita lyhenteitä sf ja scifi.
 
@@ -67,7 +67,7 @@ Seuran jäsenmäärä oli vuonna 1977 noin 40 henkilöä. Aluksi toiminta muodos
 
 Spin oli alkutaipaleella varsin vaatimaton, epäsäännöllisesti ilmestyvä noin parinkymmenen sivun lehdykkä. Materiaalin saaminen tuotti ongelmia ja kuvia lainailtiin surutta mistä sattui. Mukana oli jo monia myöhemmin tunnetuksi tulevia scifi-ihmisiä, kuten tamperelaisen Portti-lehden tuleva päätoimittaja Raimo Nikkonen ja Tähtivaeltajan tuleva päätoimittaja Toni Jerrman. Haapion mukaan Spinin ”arvokkain kulttuurityö” taisi tuolloin olla {% nimi "Seppo Hyrkäksen", "Seppo Hyrkäs" %} tieteiskirjallisuusaiheisen gradun julkaiseminen lehdessä, työstä koottiin myöhemmin vielä erityispainoskin.[^11]
 
-Spin muuttui vuosien kuluessa, uusien päätoimittajien myötä ja seuran rahatilanteen sallimissa rajoissa niin tyyliltään kuin kooltaankin.[^12] Vuonna 1993 se muuttui kuusi kertaa vuodessa ilmestyväksi lehdeksi. Turun seuran toiminta oli varsin vähäeleistä aina 80-luvun loppupuolelle saakka. Vuonna 1986 oli tosin järjestetty 10-vuotisjuhlat ja seuraavana keväänä matka Tukholmaan tapaamaan ruotsalaisia harrastajia. 15.3.1986 ravintola Kårenilla pidetty juhla sai jopa tiedotusvälineiltä varsin runsaasti huomiota, se mainittiin mm. paikallisradioissa, paikallislehdissä ja Iltalehdessä. Juhla alkoi elokuvaesityksellä *Ruohometsän kansa*, sitä seurasi seuran sääntömääräinen kokous, muutama alustus, huutokauppa ja kunniavieraspaneelikeskustelu, johon oli saapunut Turun seuran varhaisvaiheissa mukana olleita henkilöitä. Samassa yhteydessä pidettiin myös Tieteiskirjoittajien kokous.[^13]
+Spin muuttui vuosien kuluessa, uusien päätoimittajien myötä ja seuran rahatilanteen sallimissa rajoissa niin tyyliltään kuin kooltaankin.[^12] Vuonna 1993 se muuttui kuusi kertaa vuodessa ilmestyväksi lehdeksi. Turun seuran toiminta oli varsin vähäeleistä aina 80-luvun loppupuolelle saakka. Vuonna 1986 oli tosin järjestetty 10-vuotisjuhlat ja seuraavana keväänä matka Tukholmaan tapaamaan ruotsalaisia harrastajia. 15.3.1986 ravintola Kårenilla pidetty juhla sai jopa tiedotusvälineiltä varsin runsaasti huomiota, se mainittiin mm. paikallisradioissa, paikallislehdissä ja Iltalehdessä. Juhla alkoi elokuvaesityksellä _Ruohometsän kansa_, sitä seurasi seuran sääntömääräinen kokous, muutama alustus, huutokauppa ja kunniavieraspaneelikeskustelu, johon oli saapunut Turun seuran varhaisvaiheissa mukana olleita henkilöitä. Samassa yhteydessä pidettiin myös Tieteiskirjoittajien kokous.[^13]
 
 Seuran toiminta muuttui aktiivisemmaksi sukupolven vaihdoksen myötä 90-luvun vaihteessa ja mafia-iltojen käynnistyessä myös Turussa. Vuonna 1991 seura järjesti ensimmäiset keskiaikaishenkiset fantasiapidot Sauvon Ahtelan nuorisoleirialueella. Tapahtuma järjestettiin sittemmin myös vuosina 1993, 1995 ja 1997, osallistujamäärät kasvoivat ja ohjelma monipuolistui.
 
@@ -75,7 +75,7 @@ Vaatimattoman tuntuisesta ja hankalasta alustaan huolimatta Turussa aloitettu sf
 
 ### 2.2. Seuroja perustetaan ympäri maata
 
-> *Scifi elää Suomessa melkoista nousukautta. Kirjoja ilmestyy niin ettei paremmasta väliä, kerhoja syntyy ja Spinillekin on luvassa kilpailijoita.*[^14]
+> _Scifi elää Suomessa melkoista nousukautta. Kirjoja ilmestyy niin ettei paremmasta väliä, kerhoja syntyy ja Spinillekin on luvassa kilpailijoita._[^14]
 
 Näin kirjoitettiin vuoden 1981 ensimmäisen Spinin pääkirjoituksessa. Vuosikymmenen vaihde merkitsi suomalaisen sf-harrastustoiminnan todellista heräämistä, ja se tapahtui samanaikaisesti eri puolilla maata. Tampereen Science Fiction Seura perustettiin 11.12.1979, puheenjohtajanaan Matti Rosvall.[^15] Ensimmäinen Portti-lehti ilmestyi Raimo Nikkosen toimittamana tammikuussa 1982. Tuolloin jäseniä seuralla oli noin 50. Portti julkaisi heti ensimmäisestä vuodestaan lähtien suomalaisten novellien ohella myös käännettyjä novelleja, ja vuosien kuluessa se paisui yli satasivuiseksi julkaisuksi.[^16]
 
@@ -117,13 +117,13 @@ Vanhain Herrain Tieteiskirjallisuuden Nautiskelu Huone perustettiin lokakuussa 1
 
 Vanhat Herrat ilmoittivat toimivansa vastapainona harrastustoimintaan tunkeutuneille ”epäterveille ilmiöille”, joista yhtenä esimerkkinä he mainitsivat naisvaltaistumisen. Suomalaiset naispuoliset sf-harrastajat toivatkin Kosmoskynässä ilmi mielipahansa Vanhojen Herrojen yhdistyksen säännöistä, lopettaen kirjoituksen toteamalla että ”pojat heittelevät sammakoita kivillä leikillään. Sammakot vain kuolevat tosissaan.” Kirjoituksessa kävi myös ilmi, että useat Vanhat Herrat olivat jo yrittäneet yksityisesti selitellä asiaa loukkaantuneille naisharrastajille.[^38]
 
-Tammikuussa 1990 muutamat helsinkiläiset harrastajat perustivat Zombie-klubin, eli alipainoisten scifi-harrastajien ryhmän, jonka jäsenten painoindeksin on alitettava 19,42. Klubin nimikkoelokuvaksi määriteltiin *Return of The Living Dead*, nimikkojuomaksi lonkero ja klubin tarkoitukseksi mm. edistää terveitä elintapoja, vastustaa ylensyöntiä ja ruuan korkeita hintoja. Jos jäsenen paino muuttuu siten, että hän ylittää painoindeksin, joutuu hän eroamaan klubista.[^39] Keväällä 1990 Zombie-klubiin pyrki myös tamperelainen rotta nimeltä Nuppu Peltonen, mutta sen jäsenanomus hylättiin koska painoindeksi ei sovellu eläimiin. Sen sijaan Nuppu toivotettiin tervetulleeksi Zombie Fan-Klubiin, joka oli tarkoitettu ainoastaan eläimille.[^40]
+Tammikuussa 1990 muutamat helsinkiläiset harrastajat perustivat Zombie-klubin, eli alipainoisten scifi-harrastajien ryhmän, jonka jäsenten painoindeksin on alitettava 19,42. Klubin nimikkoelokuvaksi määriteltiin _Return of The Living Dead_, nimikkojuomaksi lonkero ja klubin tarkoitukseksi mm. edistää terveitä elintapoja, vastustaa ylensyöntiä ja ruuan korkeita hintoja. Jos jäsenen paino muuttuu siten, että hän ylittää painoindeksin, joutuu hän eroamaan klubista.[^39] Keväällä 1990 Zombie-klubiin pyrki myös tamperelainen rotta nimeltä Nuppu Peltonen, mutta sen jäsenanomus hylättiin koska painoindeksi ei sovellu eläimiin. Sen sijaan Nuppu toivotettiin tervetulleeksi Zombie Fan-Klubiin, joka oli tarkoitettu ainoastaan eläimille.[^40]
 
 Fantasia oli toki ollut alusta saakka mukana scifi-lehdissä, mutta sen merkitys kasvoi vuosikymmenen vaihteeseen tultaessa. Fantasiakirjallisuuden suosion lisäksi suuntaus näkyi mm. roolipelaamisen lisääntymisenä ja kiinnostuksena miekkoihin. Miekat tulivat Ben Roimolan ja {% nimi "Sami Toivosen", "Sami Toivonen" %} mukana fandomiin 90-luvun vaihteessa, ja Fantasiapidoissa 1991 perustettiin ”salaisin menoin yöllä” Laulavan Terän Kehä kuuden fantasiasta, miekoista ja luonnosta kiinnostuneen ihmisen voimin.[^41]
 
 Suomalaisen fandomin kirjavaan joukkoon mahtui jopa pehmoeläimiä, kuten Aikaconissa 1994 Universumin valtias ‑tittelistä taistellut Tonkka-gorilla.[^42] Vuoden 1987 Worldconissa puolestaan herätti huomiota Leena Peltosen pehmoeläin Kus-Kus Peltonen. Sen näkökulma Brightonin matkasta julkaistiin Kosmoskynässä vuonna 1988:
 
-> *”– – Mutta kyllä minä solmin kansainvälisiä kontta-akteja vai mitä ne on, varmaan enemmän kuin kukaan muu. Minua, jolla on sateenkaaren väriset korvat, paijasi ainakin monta sataa ihmistä. – – Ja sitten oli fan-roomissa yhdellä kaverilla Kapteeni Kirk ‑paita, ja se näytti minulle vulcanuslaisen tervehdyksen kun minulla oli minun Spock-paita päällä. – –”*[^43]
+> _”– – Mutta kyllä minä solmin kansainvälisiä kontta-akteja vai mitä ne on, varmaan enemmän kuin kukaan muu. Minua, jolla on sateenkaaren väriset korvat, paijasi ainakin monta sataa ihmistä. – – Ja sitten oli fan-roomissa yhdellä kaverilla Kapteeni Kirk ‑paita, ja se näytti minulle vulcanuslaisen tervehdyksen kun minulla oli minun Spock-paita päällä. – –”_[^43]
 
 ## 3. Tapahtumat: huviretkiä, coneja ja mafioita
 
@@ -135,17 +135,17 @@ Huviretken ohjelma pysyi vuodesta toiseen hyvin samankaltaisena, aina arpajaisia
 
 Suomen ensimmäinen varsinainen science fiction ‑kongressi eli con – King Con – järjestettiin 1982 Helsingissä. Se ei kuitenkaan ollut ensimmäinen isompi scifi-tapahtuma, sillä jo vuonna 1969 (23.–28.3.) Turun yliopistolla järjestettiin Tieteen popularisoinnin päivien yhteydessä Science fiction ‑tapahtuma. Vaikka niiden ideointi olikin tapahtunut toisistaan riippumatta, ne päätettiin järjestää samanaikaisesti monien yhdistävien piirteiden vuoksi. Kumpikin oli lähtöisin Turun yliopiston piiristä: Tieteen popularisoinnin järjestivät alayhdistykset Synapsi, Nabla ja Kemistit, ja scifitapahtuman puolestaan TYY. Scifi-tapahtuman idea oli varsinaisesti Jorma Pihan, joka tuolloin vastasi TYYn kulttuuriasioista.
 
-Tapahtumaan kuului elokuvasarja, sarjakuva- ja kirjallisuusnäyttely sekä esitelmiä. Elokuvat esitettiin teatteri Bostonissa, ja ne olivat *King Kong*, *Tri T:n 5000 sormea*, *Ensimmäiset miehet kuussa*, *Invaders from Mars*, ja *Fantastinen matka*. Pertti Jotuni esitelmöitsi tieteiskirjallisuudesta ja todellisuudesta tiedon näkökulmasta tarkasteltuna, Kalevi Nyytäjä tieteiskirjallisuudesta ja sen kirjallisesta merkityksestä, sekä Juha Manninen tieteisromaanista teknostruktuurin proletaarin kirjallisuutena.[^46]
+Tapahtumaan kuului elokuvasarja, sarjakuva- ja kirjallisuusnäyttely sekä esitelmiä. Elokuvat esitettiin teatteri Bostonissa, ja ne olivat _King Kong_, _Tri T:n 5000 sormea_, _Ensimmäiset miehet kuussa_, _Invaders from Mars_, ja _Fantastinen matka_. Pertti Jotuni esitelmöitsi tieteiskirjallisuudesta ja todellisuudesta tiedon näkökulmasta tarkasteltuna, Kalevi Nyytäjä tieteiskirjallisuudesta ja sen kirjallisesta merkityksestä, sekä Juha Manninen tieteisromaanista teknostruktuurin proletaarin kirjallisuutena.[^46]
 
 Ensimmäinen Suomessa järjestetty varsinainen con oli ruotsalaisen scifi-kirjailija Sam J. Lundwallin ja suomalaisen Tom Ölanderin järjestämä tapahtuma nimeltä King-Con, joka pidettiin 28.–31.5.1982. Lundwall halusi järjestää uudentyyppisen scifi-kongressin, joka tapahtuisi laivalla ja jatkuisi sitten Helsingissä. Helsingin hän valitsi määränpääksi siksi, että tiesi scifi-harrastuksen olevan Suomessa kasvamassa. Järjestelyt hoiti kuusihenkinen kongressitoimikunta, jonka ainoana suomalaisena jäsenenä oli Tom Ölander.
 
 Tapahtuman kunniavieraina olivat kirjailija Harry Harrison ja hollantilainen taiteilija Karel Thole[^47]. Tholen mukaantulo oli yllätys – hän oli sattunut lukemaan ilmoituksen tapahtumasta ja päätti lähteä mukaan. Tapahtuman ohjelma oli tyypillinen scifi-conin ohjelma: se sisälsi elokuvia, esitelmiä ja näyttelyitä. Elokuvia lukuunottamatta tilaisuus oli ilmainen, ja se pidettiin Vanhalla ylioppilastalolla. Illalla järjestettiin maksullinen kongressi-illallinen ravintola Fenniassa.
 
-Ruotsinlaivalla oli mukana noin 40 osaanottajaa, joista vain kolme oli suomalaisia. Helsingissä elokuvia *Capricorn One*, *Vaarojen planeetta*, *Ruusujen aika*, *Musta Aukko* seurasi noin 150 katsojaa. Ohjelma pidettiin englanniksi, ja sitä seurasi yli sata kuulijaa. Aiheina oli mm. paneelikeskustelu sf-fandomin tulevaisuudesta, Veikko Rekusen esitelmä suomalaisesta science fictionista, ruotsalaisten kertomus omasta fandomistaan sekä Harrisonin ja Lundwallin esitelmä kirjailijaelämästä. Noin tuhannen ihmisen arvioitiin tutustuneen näyttelyyn, monet lienevät olleet satunnaisia ohikulkijoita. Tapahtuma sai runsaasti julkisuutta lehdistössä, radiossa ja jopa televisiouutisissa.[^48]
+Ruotsinlaivalla oli mukana noin 40 osaanottajaa, joista vain kolme oli suomalaisia. Helsingissä elokuvia _Capricorn One_, _Vaarojen planeetta_, _Ruusujen aika_, _Musta Aukko_ seurasi noin 150 katsojaa. Ohjelma pidettiin englanniksi, ja sitä seurasi yli sata kuulijaa. Aiheina oli mm. paneelikeskustelu sf-fandomin tulevaisuudesta, Veikko Rekusen esitelmä suomalaisesta science fictionista, ruotsalaisten kertomus omasta fandomistaan sekä Harrisonin ja Lundwallin esitelmä kirjailijaelämästä. Noin tuhannen ihmisen arvioitiin tutustuneen näyttelyyn, monet lienevät olleet satunnaisia ohikulkijoita. Tapahtuma sai runsaasti julkisuutta lehdistössä, radiossa ja jopa televisiouutisissa.[^48]
 
 Kesällä 1983 järjesti Kansanvalistusseura Orivedellä kolmipäiväisen sf-tapahtuman, johon otti osaa 26 henkilöä, joista tosin kymmenen oli tilaisuuden esiintyjiä. Orivedellä puhuttiin myyteistä ja utopioista, sf-kirjallisuuden historiasta, luonnontieteiden ja scifin suhteista, fandomista, scifin kirjoittamisesta, sen kääntämisen ongelmista ja tieteiselokuvan historiasta.[^49] Tilaisuuteen kuuluivat osana myös ravintolaillanvietot ja elokuvat. Tilaisuus oli varsin kallis, hinta oli majoituksesta riippuen 500–600 markkaa.[^50]
 
-Ensimmäinen täysin suomalaisin voimin järjestetty con oli tamperelainen Tamcon, heinäkuussa 1985. Ajatus siihen oli heitetty edellisen kesän huviretkellä. Tapahtumasta tuli kolmipäiväinen ja siihen osallistui hieman alle sata henkilöä. Ensimmäisenä päivänä ohjelmassa oli elokuvia (*Zardoz*, *Der Golem* ja *Muutostiloja*), laivaristeily Viikinsaareen ja illanviettoa ravintola Tillikassa. Lauantaina Amurin koululla pidettiin kuusi esitelmää, esitettiin muutama elokuva ja illalla oli jälleen ravintolailta. Esitelmien aiheina oli mm. maailmankaikkeuden synty, naiset scifissä ja fandom. Sunnuntaina koululla pidettiin vielä paneelikeskustelu ja päätösohjelmanumerona oli Särkänniemessä planetaarioesitys. Ainoa ulkomainen vieras oli ruotsalainen sf-harrastaja Ahrvid Engholm.[^51]
+Ensimmäinen täysin suomalaisin voimin järjestetty con oli tamperelainen Tamcon, heinäkuussa 1985. Ajatus siihen oli heitetty edellisen kesän huviretkellä. Tapahtumasta tuli kolmipäiväinen ja siihen osallistui hieman alle sata henkilöä. Ensimmäisenä päivänä ohjelmassa oli elokuvia (_Zardoz_, _Der Golem_ ja _Muutostiloja_), laivaristeily Viikinsaareen ja illanviettoa ravintola Tillikassa. Lauantaina Amurin koululla pidettiin kuusi esitelmää, esitettiin muutama elokuva ja illalla oli jälleen ravintolailta. Esitelmien aiheina oli mm. maailmankaikkeuden synty, naiset scifissä ja fandom. Sunnuntaina koululla pidettiin vielä paneelikeskustelu ja päätösohjelmanumerona oli Särkänniemessä planetaarioesitys. Ainoa ulkomainen vieras oli ruotsalainen sf-harrastaja Ahrvid Engholm.[^51]
 
 ### 3.2. Finncon, Aikacon ja Jyväskylän Kesä
 
@@ -157,7 +157,7 @@ Finncon 86 ohjelmaan kuului kirja- ja lehtinäyttely, erilaisten scifi-tuotteide
 
 Finncon-toimikunnan jäsen Harri Haarikko totesi jälkeenpäin Spinissä seuraavasti:
 
-> *– – Mutta sanokaa minun sanoneen, että kuluu ainakin kymmenen vuotta, ennen kuin Suomessa järjestetään seuraava yhtä laaja science fiction ‑tapahtuma. Joten jos ette olleet Finnconissa, syyttäkää itseänne! – –*[^56]
+> _– – Mutta sanokaa minun sanoneen, että kuluu ainakin kymmenen vuotta, ennen kuin Suomessa järjestetään seuraava yhtä laaja science fiction ‑tapahtuma. Joten jos ette olleet Finnconissa, syyttäkää itseänne! – –_[^56]
 
 Kului kuitenkin vain kolme vuotta, ja vuorossa oli uusi Finncon. Nyt oli päätetty, että Finnconin tulee aina olla ilmainen, jonne on vapaa pääsy kaikilla asiasta kiinnostuneilla. Tapahtuman pitoaika siirrettiin myös keväästä elokuuhun.
 
@@ -191,21 +191,21 @@ Suomalaista fandomia tehtiin tunnetuksi englanninkielisillä julkaisuilla, Brigh
 
 <div lang="en">
 
-> *– – They all speak English and are ready to talk about anything, and to consume enormous amounts of alcohol beverages, even more enormous that the swedes…*[^65]
+> _– – They all speak English and are ready to talk about anything, and to consume enormous amounts of alcohol beverages, even more enormous that the swedes…_[^65]
 
 </div>
 
 Confictionissa Haagissa 1990 suomalaiset noterattiin myös conin tunnistusoppaassa seuraavasti:
 
-> *heitä on paljon, he pukeutuvat mustaan, he juovat kaljaa ja he istuvat fan-roomin lattialla – –*[^66]
+> _heitä on paljon, he pukeutuvat mustaan, he juovat kaljaa ja he istuvat fan-roomin lattialla – –_[^66]
 
 Suomalaiset näkyivät myös pienemmissä kongresseissa. Eurocon Budapestissä vuonna 1988 oli vain alle sadan osallistujan tapahtuma, jonka järjestelyt olivat melkoista kaaosta. Noin 25 paikalle saapunutta suomalaista fania sen sijaan kunnostautui:
 
-> *– – Niin ensimmäisenä kuin kaikkina muinakin päivinä suomalaiset muodostivat con-osallistujien virkeimmän ja fanmaisimman porukan. Istuimme parin pöydän ääressä, kittasimme kaljaa ja keskustelimme scifistä ja vähän muustakin. Ei siis ihmekään, että John Brunner iskeytyi heti alusta pitäen seuraamme, kuten vähän väliä muutkin conin ei-unkarilaiset osanottajat – –*[^67]
+> _– – Niin ensimmäisenä kuin kaikkina muinakin päivinä suomalaiset muodostivat con-osallistujien virkeimmän ja fanmaisimman porukan. Istuimme parin pöydän ääressä, kittasimme kaljaa ja keskustelimme scifistä ja vähän muustakin. Ei siis ihmekään, että John Brunner iskeytyi heti alusta pitäen seuraamme, kuten vähän väliä muutkin conin ei-unkarilaiset osanottajat – –_[^67]
 
 Keväällä 1987 tehtiin retki Tukholmaan, tapaamaan ruotsalaisia scifi-harrastajia. Idea oli syntynyt vuoden 1986 yhteistyökokouksessa, ja käytännössä Turun seura organisoi matkan, jolle lähti 24 innokasta. Matkalla annettiin Suomen tieteiskirjoittajien Kosmoskynäpalkinto Tom Ölanderille. Samalla luovutettiin uusi Kosmoskumipalkinto vuoden merkittävimmästä Kosmoskynä -lehdessä olleesta kirjoituksesta, ja sen sai tamperelainen Johanna Sinisalo.
 
-Tapaaminen järjestettiin tukholmalaisen scifi-harrastaja Ahrvid Engholmin kotona, jossa riehakas meno jatkui aamuun saakka. Vapaamuotoisen keskustelun ohella yön aikana pidettiin sekavahko paneelikeskustelu, katseltiin elokuvia videolta, syötiin, juotiin, laulettiin yhteislauluja, sekä pelattiin Suomen voittoon päättynyt pöytäjääkiekko-ottelu. Ruotsalaisia oli paikalla varsin vähän, vain noin parikymmentä. Paluumatkalla ryhmälle oli varattu kokoustilat, jossa katsottiin elokuvia ja pidettiin huutokauppa. Yksi elokuvista oli kulttielokuva *The Rocky Horror Picture Show*, joka katsottiin lopulta toisenkin kerran, jolloin ihmiset innostuivat jo tanssimaan ja laulamaan elokuvan mukana. *RHPS:stä* tuli pian matkan jälkeen varsinkin Helsingin fandompiirissä erittäin suosittu.[^68]
+Tapaaminen järjestettiin tukholmalaisen scifi-harrastaja Ahrvid Engholmin kotona, jossa riehakas meno jatkui aamuun saakka. Vapaamuotoisen keskustelun ohella yön aikana pidettiin sekavahko paneelikeskustelu, katseltiin elokuvia videolta, syötiin, juotiin, laulettiin yhteislauluja, sekä pelattiin Suomen voittoon päättynyt pöytäjääkiekko-ottelu. Ruotsalaisia oli paikalla varsin vähän, vain noin parikymmentä. Paluumatkalla ryhmälle oli varattu kokoustilat, jossa katsottiin elokuvia ja pidettiin huutokauppa. Yksi elokuvista oli kulttielokuva _The Rocky Horror Picture Show_, joka katsottiin lopulta toisenkin kerran, jolloin ihmiset innostuivat jo tanssimaan ja laulamaan elokuvan mukana. _RHPS:stä_ tuli pian matkan jälkeen varsinkin Helsingin fandompiirissä erittäin suosittu.[^68]
 
 Jo saman vuoden yhteistyökokouksessa pohdittiin vastaavanlaisen tapahtuman järjestämistä Helsingissä. Myös TSFS tarjoutui myös järjestämään uuden matkan vuoden 1988 keväällä.[^69] Kummastakaan suunnitelmasta ei kuitenkaan tullut mitään, ja seuraava Contact ‑matka Engholmin luokse järjestettiin (turkulaisten toimesta) vasta alkuvuodesta 1997.
 
@@ -227,17 +227,17 @@ Ensimmäinen murheenaihe oli toiminnan alkaessa sen asema. Scifi-harrastajia tun
 
 80-luvun lopussa näytettiin tulleen fandomin huippuhetkeen: harrastajille oli tarjolla säännöllisiä tapaamisia, oltiin saatu kansainvälisiä vaikutteita, lehtiä ilmestyi runsaasti, mafiat toivat uutta väkeä piireihin.[^78] Toisaalta jo tuolloin oli näkyvissä väsähtämistä, uusien ideoiden puuttumista ja sukupolven vaihdoksen tärkeys suomalaisen fandomin säilymisen kannalta.[^79] Monista positiivisista aikaansaannoksistaan huolimatta myös mafiatoiminta sai pian osakseen kritiikkiä:
 
-> *– – Entäs sitten {% nimi "Kannaksen", "Kannas" %} mafia, tuo suomalaisen fandomin voiman näyte? Joka toinen torstai samat naamat kokoontuvat ryyppäämään yhdessä. Jos erittäin hyvä tuuri käy, voi kuulla jonkun jopa mainitsevan jotain scifiin liittyvää. Enemmän kiinnostuststa herättää kuitenkin flipperi, biljardi ja tietysti alkoholipitoiset juomat. – –*
+> _– – Entäs sitten {% nimi "Kannaksen", "Kannas" %} mafia, tuo suomalaisen fandomin voiman näyte? Joka toinen torstai samat naamat kokoontuvat ryyppäämään yhdessä. Jos erittäin hyvä tuuri käy, voi kuulla jonkun jopa mainitsevan jotain scifiin liittyvää. Enemmän kiinnostuststa herättää kuitenkin flipperi, biljardi ja tietysti alkoholipitoiset juomat. – –_
 
 Näin pohti Kosmoskynän yleisönosastolla Marko Jerrman vuonna 1990. Hän jatkoi muistuttamalla, että mafia nimenomaan luotiin scifistien tapaamista ja uusien ihmisten mukaantuloa varten. Nykyään kuitenkin sisäpiiriytymisen vuoksi uusien oli hyvin hankalaa päästä mukaan. Ongelmina Jerrman näki myös sen, että kauhu ja fantasia söivät scifin osuutta niin lehdissä, puheissa kuin kirjoissakin. Aktiiveja oli liian vähän, aina samat henkilöt puuhaamassa tapahtumia. Fandomissa vallitsi harvainvalta ja pysähtyneisyyden kausi, jota vähän heitteli gurujen keskinäiset erimielisyydet.[^80]
 
 Samassa lehdessä myös Juha Salminen murehti fandomin nykytilaa ja totesi, että huippu oli saavutettu. Lehdet ilmestyvät laajalevikkisinä ja laadukkaina, suomalaiset osallistuvat niin koti- kuin ulkomaidenkin scifi-tapahtumiin, julkaisukanavia riitti. Mutta,
 
-> *– – poissa on fandomin alkuaikojen innostus, kun vielä olimme muun kulttuurielämän vieroksumia – – Fandom on yhä näkyvämmin jakautunut eripuraisiin leireihin, joiden energia menee toisten solvamiseen eikä harrastuksen edistämiseen. – – alkujaan asetetut tavoitteet on pitkälti saavutettu. Olen sitä mieltä, että nykyisellään fandomia ei enää tarvita. On eri asia, jos samanhenkiset haluavat viettää aikaansa oluen ääressä ja kutsua sitä scifi-fandomiksi…*
+> _– – poissa on fandomin alkuaikojen innostus, kun vielä olimme muun kulttuurielämän vieroksumia – – Fandom on yhä näkyvämmin jakautunut eripuraisiin leireihin, joiden energia menee toisten solvamiseen eikä harrastuksen edistämiseen. – – alkujaan asetetut tavoitteet on pitkälti saavutettu. Olen sitä mieltä, että nykyisellään fandomia ei enää tarvita. On eri asia, jos samanhenkiset haluavat viettää aikaansa oluen ääressä ja kutsua sitä scifi-fandomiksi…_
 
 Pessimistisistä mielipiteistä huolimatta suomalainen scifi-fandom selviytyi 80- ja 90-luvun vaihteen ”kriisivaiheen” ylitse. Kauhu, fantasia, eivätkä edes roolipelit lopultakaan syösseet science fictionia unohduksiin, vaikkakin selvästi pirstoivat scifi-harrastuksen kenttää. Ilmeisesti kyseessä olivat myös jonkinlaiset sopeutumisongelmat, kun aikaisemmat tavoitteet näytettiin saadun toteutetuiksi ja uusia ei ollut näkyvissä. Uusia aktiiveja ei ilmaantunut tarpeeksi, ja osa ”vanhoista parroista” alkoi väsyä fandomiin. Vuonna 1991 Johanna Sinisalo kirjoitti Kosmoskynään kehoittaen harrastajia kuitenkin kerrankin olemaan tyytyväisiä, ainakin edes hetken verran:
 
-> *– – Mietitäänpä kaikki sitä tilannetta, mikä vallitsi Suomessa sf:n saralla kymmenen vuotta sitten, ja mikä kaikki on muuttunut parempaan suuntaan. Erinomaiset lehtemme, käännöskirjojen määrä ja taso, kotimaisen kirjoittajapolven huima kehitys, conit, sf:n saama objektiivinen julkisuus, kansainvälistyminen…– –*[^81]
+> _– – Mietitäänpä kaikki sitä tilannetta, mikä vallitsi Suomessa sf:n saralla kymmenen vuotta sitten, ja mikä kaikki on muuttunut parempaan suuntaan. Erinomaiset lehtemme, käännöskirjojen määrä ja taso, kotimaisen kirjoittajapolven huima kehitys, conit, sf:n saama objektiivinen julkisuus, kansainvälistyminen…– –_[^81]
 
 ## 7. Lopuksi
 
@@ -251,89 +251,170 @@ Fandom säilyi vuosikymmenen vaihteen synkeistä tulevaisuuden peloista huolimat
 
 90-luvun alkuvuosiin tultaessa scifi-fandom näytti saavuttaneen myös alkuaikoina asetetun tavoitteen: scifi-kulttuurin tunnetuksi tekemisen Suomessa. Siitä oli tullut vuosikymmenen vaihteeseen tultaessa hyväksytty osa kulttuurielämää. Uudet scifiä sivuavat ilmiöt olivat vuorostaan nousemassa alakulttuurin asemasta ylöspäin, tällainen oli esimerkiksi roolipelaaminen ja erityisesti liveroolopelaaminen. (Suurin osa roolipeleistä on aiheiltaan fantasiaa tai scifiä.) Science fiction ‑fandom oli myös saavuttanut pisteen, jossa nostalgia alkoi helliä muistoja:
 
-> *– – Etenkin 80-luvun jälkimmäinen puolisko, suomalaisen fandomin pioneeriaika, on kuin unta, utuun kadonneita muistikuvia, muistojen kultaamia ja ajan patinoimia välähdyksiä kadonneesta kadotetusta ? viattomuuden ajasta. Ajasta, jolloin olimme paljon innokkampia… ja nuorempia… ja kokemattomampia….*[^82]
+> _– – Etenkin 80-luvun jälkimmäinen puolisko, suomalaisen fandomin pioneeriaika, on kuin unta, utuun kadonneita muistikuvia, muistojen kultaamia ja ajan patinoimia välähdyksiä kadonneesta kadotetusta ? viattomuuden ajasta. Ajasta, jolloin olimme paljon innokkampia… ja nuorempia… ja kokemattomampia…._[^82]
 
 [^1]: Yksityiskohtainen paneutuminen eri seurojen toimintaan edellyttäisi mahdollisuutta päästä tutustumaan eri seurojen arkistoihin. Se aiheuttaisi myös työn paisumisen proseminaarin mittojen ylitse.
+
 [^2]: Ölander: Fandom-ilmiö. Spin 1/1986, 10–11.
+
 [^3]: Ks. science fictionin määrittelemisestä esim. Ekholm 1983, 8–11, 17.
+
 [^4]: Huru-ukolla tarkoitetaan fandomissa henkilöä, joka on ollut mukana jo huomattavan pitkän ajan, mutta ei nykyisin yleensä enää kovin aktiivisesti.
+
 [^5]: Mafioilla tarkoitetaan 80-luvun loppupuolella syntyneitä harrastajien säännöllisiä kokoontumisia eri kaupungeissa.
+
 [^6]: Haarikko: Huru-ukkojen horinoita. Spin 4/1989, 23.
+
 [^7]: Hinkkanen: Fandom in Finland or Surviving the Feast of Friends. Feast of Friends 1987, 6–7. Ks. myös Hinkkanen: Sf-lehdistö Suomessa. Aikakone kevät 1984, 2–4.
+
 [^8]: Turun Science Fiction Seura. Säännöt. TSFSa.
+
 [^9]: Piha: Suomessa ei tiettävästi vielä ole tieteiskirjallisuuden yhdistystä… Spin 1/1986, 18.
+
 [^10]: Mäenpää: 250-sanainen historia. Spin 2/1982, 5. Ks. myös Hinkkanen: Sf-lehdistö Suomessa. Aikakone kevät 1984, 2–3.
+
 [^11]: Haapio: Spin forever. Spin 1/1986, 21–22.
+
 [^12]: Ks. Spinin historiasta Roimola: Spin – jonkinlainen historiikki. Spin 2/1991, 6–10.
+
 [^13]: Haarikko: Puheenjohtajan palsta. Spin 2/1986, 3–6.
+
 [^14]: Spin 1/1981, 2.
+
 [^15]: Portti 1/1982, 3.
+
 [^16]: Portin toimittajana on edelleen tätä kirjoitettaessa Nikkonen.
+
 [^17]: Holsti ja Oja: Tieteiskirjallisuus Suomessa. Tähdet ja avaruus 2/1979, 26.
+
 [^18]: Koponen: Tieteiskirjat Ursan uusi aluevaltaus. Tähdet ja avaruus 1/1980, 32.
+
 [^19]: Koponen: Science fiction. Tähdet ja avaruus 3/1980, 96.
+
 [^20]: Ursan toimintakertomus 1980, Tähdet ja avaruus 3/1981, 84 ja Koponen: Science fiction. Tähdet ja avaruus 3/1981, 87.
+
 [^21]: Hinkkanen: Fandom Suomessa. Subjektiivista historiaa hulluilta vuosilta 1981–83. Spin 1/1986, 13.
+
 [^22]: Enqvist: Tiedepalsta. Aikakone talvi 1983, 45.
+
 [^23]: Hinkkanen ja Peltonen: Kunniallinen tapa päästä eroon Aikakoneesta. Kosmoskynä 2/1989, 10–12.
+
 [^24]: Kilpi: Neekeriankkojen vallankumous I. Tähtivaeltaja 4/84, 23–25. Yksityiskohtainen ja värikäs kertomus Time and Spacen historiasta löytyy artikkelisarjasta Neekeriankkojen vallankumous, joka ilmestyi kahdeksana osana Tähtivaeltajassa 4/1984–3/1985.
+
 [^25]: Kilpi: Neekeriankkojen vallankumous V. Tähtivaeltaja 2/1985, 16.
+
 [^26]: Ks. esim. Rekunen: Kirjoittajapalsta. Aikakone talvi 1984, 40.
+
 [^27]: Jerrman: Lukijaäänestys. Tähtivaeltaja 1/88, 4.
+
 [^28]: Ks. perustamisesta Rekunen: Kirjoittajapalsta. Aikakone syksy 1984, 39–40; Spin 1/1986, 56.
+
 [^29]: Rekunen: Kirjoittajapalsta. Aikakone talvi 1983, 27–29.
+
 [^30]: Portti 3/1982, 56.
+
 [^31]: Ks. esim. ilmoitus uustispalstalla, Spin 4/1988, 34.
+
 [^32]: Kosmoskynä 3/1993, 15.
+
 [^33]: Marvin the Lehti 1/88, 6. Historiaa.
+
 [^34]: Pöytäkirja Ursan Sf-klubin sekä Turun ja Tampereen sf-seurojen välisestä neuvottelusta Helsingissä 6.3.1981. TSFSa.
+
 [^35]: Ks. esim Salminen: Yhteistyö on voimaa. Kosmoskynä 3/1986, 7–8.
+
 [^36]: Yhteistyökokouksen (5.12.1987) pöytäkirja 4.1.1988. TSFSa.
+
 [^37]: Vanhan Herrain Tieteiskirjallisuuden Nautiskelu Huone. Perustamisasiakirja, säännöt 14.10.1989.
+
 [^38]: Munaiset jumalolennot sammakkoperspektiivistä. Kosmoskynä 4/1989, 6–7.
+
 [^39]: Ks. esim. Marvin 1/90, 16–18.
+
 [^40]: Unohdettujen luiden kosto. Aikalisä 2, 29.
+
 [^41]: Marvin 4/1993 Laulavan Terän Kehä, 4.
+
 [^42]: Ks. esim. Aikacon 94, oheislehtinen.
+
 [^43]: Kus-Kus: Kus-kus kanssa tahtoo kertoa! Kosmoskynä 1/1988, 11.
+
 [^44]: Portti 2/1983, 39. Huviretki tienpientareelle eli faunin iltapäivä. Science fictionin ja fantasian ystäville.
+
 [^45]: Ks. esim. Haarikko: Puheenjohtajan palsta. Spin 3/1988, 4–5.
+
 [^46]: Pihan kirje Haarikolle 29.12.1985. TSFSa; Uusi Suomi 24.3.1969: Tieteen popularisointi pohdinnan aiheena Turussa. Yleisömäärästä ei ole tarkkaa tietoa, mutta Piha arvelee sen olleen elokuvasarjan kohdalla vajaat sata henkilöä.
+
 [^47]: Thole oli kuvittanut useita sf-kirjojen kansia.
+
 [^48]: Ijäs ja Ölander: Raportti King-Conista. Aikakone syksy 1982, 43–44.
+
 [^49]: Luennoitsijoina toimivat mm. Matti Kuusi, Kai Ekholm, Jyrki Ijäs, Olavi Kanervisto, Veikko Rekunen ja Gladys Balabuha.
+
 [^50]: Spin 3/1983, 16–17; Portti 1/1983, 33.
+
 [^51]: Peltonen: Tamcon 19.–21.7.1985. Portti 3/1985, 36–39.
+
 [^52]: Suuri Scifi-keskustelu. Tähtivaeltaja 1/1985, 13.
+
 [^53]: Haarikko: Finncon 86 – henkilökohtainen tilitys. Spin 3/1986, 5.
-[^54]: *Kuvitettu mies, First Men in The Moon, Omega Man, Skanners, Venus on vaiti, Muukalainen Harlemissa, Hiidenpata*, ja *2010*.
+
+[^54]: _Kuvitettu mies, First Men in The Moon, Omega Man, Skanners, Venus on vaiti, Muukalainen Harlemissa, Hiidenpata_, ja _2010_.
+
 [^55]: Finncon 1986 oheislehtinen. Luennoitsijoina toimivat mm. Pekka Markkula, Jouni J. Särkijärvi, Johanna Sinisalo, Ari Harenko ja Esko Valtaoja.
+
 [^56]: Haarikko: Finncon 86 – henkilökohtainen tilitys. Spin 3/1986, 10.
+
 [^57]: Finnconia on jo suunniteltu myös tuleviksi vuosiksi: vuonna 1999 tapahtuma on tarkoitus järjestää Turussa, ja vuonna 2000 Helsingissä. Näiden kahden väliksi jää vain vuosi, mutta helsinkiläiset halusivat järjestää conin nimenomaan vuonna 2000.
+
 [^58]: Ks. esim. Aikaconin oheislehtinen. (Ei sivunumeroita)
+
 [^59]: Finncon 95 oheislehtinen. (Ei sivunumeroita)
+
 [^60]: Jerrman: Finncon 91. Tähtivaeltaja 3/1991, 6.
+
 [^61]: Ks. mafiailloista esim. Kosmoskynä 3/1993, 5.
+
 [^62]: Kosmoskynä 3/1988, 26.
+
 [^63]: Eurocon 88 kunniavieras John Brunnerin kutsumanimi conissa tapaamilleen suomalaisille sf-ihmisille. Kosmoskynä 2/1988, 9.
+
 [^64]: Jerrman: Aina hiki ja koko ajan Heineken. Confiction ’90. Tähtivaeltaja 3/1990, 8.
+
 [^65]: Hinkkanen: Fandom in Finland or Surviving the Feast of Friends. Feast of Friends. Finnish Science Fiction And Fantasy World 1987, 10
+
 [^66]: Jerrman: Aina hiki ja koko ajan Heineken. Confiction’90. Tähtivaeltaja 2/1990, 10.
+
 [^67]: Ks. aiheesta myös Haarikko: Unkarilaista sörsseliä – 13. Eurocon Budapestissä 7. – 10.7.1988. Spin 3/1988, 11–12.
+
 [^68]: Haarikko: Puheenjohtajan palsta. Spin 1/1987, 4–5. Ks. myös Haarikko: Puheenjohtajan palsta. Contact 87 revisited. Spin 2/1987, 4–7; Jerrman: Kuitenkin me kuolemme. Elä elämäsi niinkuin me. Suomalaisten SF-fanien ruotsinmatka 20.–21.3. –87, 60–65. Engholm jatkoi Contact-nimisten tapahtumien pitämistä vuosittain, mutta suomalaisia ei niissä juuri näkynyt.
+
 [^69]: Yhteistyökokouksen (5.12.1987) pöytäkirja, 4.1.1988. TSFSa.
+
 [^70]: Atorox-nimi otettiin käyttöön jaettaessa vuoden 1983 palkintoa.
+
 [^71]: Spin 2/1982, 6; Spin 2/1983, 23. Kilpailun sääntöjä on paranneltu ja tarkastettu useita kertoja, vielä 90-luvullakin moneen otteeseen.
+
 [^72]: Science fiction ja fantasia Suomessa 1994. Atorox-palkinto. (Sivunumeroita ei ole.)
+
 [^73]: Ks. esim. Haarikko: Tähtivaeltaja-palkinto. Spin 2/86, 6.
+
 [^74]: Ronni: Suomen Tieteiskirjoittajat ry. pähkinänkuoressa (crack!). Kosmoskynä 2/1991, 34; Hinkkanen ja Ekholm (toim.), 1990, 251.
+
 [^75]: Hinkkanen ja Ekholm (toim.) 1990, 251–252.
+
 [^76]: Kosmoskynä 3/1993, 14.
+
 [^77]: Ks. esim. Rekunen: King-Conista. Aikakone syksy 1982, 48–49.
+
 [^78]: Ks. esim. Juhani Hinkkasen haastattelu. Haarikko: Harrin peukaloruuvi. Spin 3/1988, 26–30. Ks. myös Kuitunen: Innokkaat harrastajat tekevät palkatta scifi-lehtiä. Helsingin Sanomat 12.8.1989. Johtavien sf-lehtien esittelystä käy ilmi myös tuon hetkiset painosmäärät, jotka vaihtelevat Spinin noin viidestäsadasta isompien melkein pariin tuhanteen. Artikkelissa myös kuvaillaan kunkin suuren lehden yleistä linjaa ja luonnetta.
+
 [^79]: Salminen: Miten meidän käy? Kosmoskynä 1/1988, 3.
+
 [^80]: Jerrman: Missä vika? Kosmoskynä 4/1990, 22.
+
 [^81]: Sinisalo: Suomalainen scifi tuli vihdoin! Kosmoskynä 3/1991, 3.
+
 [^82]: Pekka-Setä (eli Pekka Sirkiä): Suomen Tieteiskirjoittajat ry 10 v. 7/7/1994. Kosmoskynä 2/1994, 17–18.
 
 ## Lähdeluettelo
