@@ -9,5 +9,16 @@ layout: layouts/base.njk
       <time datetime="{{ page.date | isoDate }}" data-pagefind-meta="date">{{ page.date | formatDate }}</time>
     </p>
   </header>
+  {#- Where the text first appeared: a publication name, a link to a copy still
+      online, or both. The name follows a colon in the nominative rather than
+      sitting in a sentence, because a template cannot inflect it — "Marvin"
+      would need "Marvinissa", "Spin" "Spinissä", and a progress report or a
+      seminar paper declines into nothing sensible at all. #}
+  {%- if originalPublication or originalURL %}
+  <aside class="original">
+    Alun perin julkaistu:{% if originalPublication %} {{ originalPublication }}{% endif %}
+    {%- if originalURL %}{% if originalPublication %} · Verkossa:{% endif %} <a href="{{ originalURL }}">{{ originalSite or originalURL }}</a>{% endif %}
+  </aside>
+  {%- endif %}
   {{ content | safe }}
 </article>

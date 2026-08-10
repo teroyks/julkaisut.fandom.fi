@@ -321,6 +321,14 @@ article .meta {
   color: var(--text-muted);
 }
 
+/* Provenance rather than body text: the same quiet pairing as article .meta */
+article .original {
+  margin-block-end: 2rem;
+  font-family: var(--font-ui);
+  font-size: var(--font-size-small);
+  color: var(--text-muted);
+}
+
 blockquote {
   margin-inline: 0;
   padding-inline-start: 1rem;
