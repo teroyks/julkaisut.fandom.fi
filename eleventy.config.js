@@ -68,6 +68,18 @@ export default function (eleventyConfig) {
     date.toISOString().split("T")[0]
   );
 
+  // A name in an inflected form ("Haarikon Harri", "Spinissä") does not match a
+  // search for the name itself: Pagefind's Finnish stemmer does not undo
+  // consonant gradation.
+  // Add nominative form in an attribute, indexed by
+  // Pagefind but invisible on the page.
+  // It is enough to mark the first appearance to make the page findable with the term.
+  eleventyConfig.addShortcode(
+    "nimi",
+    (teksti, perusmuoto) =>
+      `<data value="${perusmuoto}" data-pagefind-index-attrs="value">${teksti}</data>`
+  );
+
   // Articles grouped by year, newest first, for the listing page.
   eleventyConfig.addCollection("publicationsByYear", (collectionsApi) => {
     const byYear = new Map();
