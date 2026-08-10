@@ -364,6 +364,17 @@ img {
   height: auto;
 }
 
+figure {
+  margin-inline: 0;
+}
+
+figcaption {
+  margin-block-start: 0.5rem;
+  font-family: var(--font-ui);
+  font-size: var(--font-size-small);
+  color: var(--text-muted);
+}
+
 /* turn <hr> in articles to a larger paragraph separator */
 article hr {
   border: none;
