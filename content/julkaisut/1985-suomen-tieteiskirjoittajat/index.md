@@ -9,7 +9,7 @@ originalSite: Hinkkasen arkisto
 originalURL: https://www.aikakone.org/juhani/arkisto/tieteiskirjoittajat.html
 ---
 
-_Tämä teksti julkaistiin Sid Sid Keräsen (tuolloin vielä Juha Keränen) lyhentämänä ja editoimana (retusoituna ja raiskattuna, kuten hän itse asian ilmaisi) hänen lehdessään Pulsarissa kesäkuussa 1985. Lopullinen käsikirjoitukseni on aikaa sitten kadonnut mutta onnistuin löytämään varhaisemman luonnosversion (josta tosin puuttuu yksi liuska), jonka pohjalta olen yrittänyt restauroida jutun lähelle alkuperäistä muotoaan. Vuoden 1997 kommentit ovat sulkeissa ja kursivoituina._
+_Tämä teksti julkaistiin SidSid Keräsen (tuolloin vielä Juha Keränen) lyhentämänä ja editoimana (retusoituna ja raiskattuna, kuten hän itse asian ilmaisi) hänen lehdessään Pulsarissa kesäkuussa 1985. Lopullinen käsikirjoitukseni on aikaa sitten kadonnut mutta onnistuin löytämään varhaisemman luonnosversion (josta tosin puuttuu yksi liuska), jonka pohjalta olen yrittänyt restauroida jutun lähelle alkuperäistä muotoaan. Vuoden 1997 kommentit ovat sulkeissa ja kursivoituina._
 
 _Suomen Tieteiskirjoittajat_ on yhdistys, jonka tarkoituksena on, kuten sen säännöissä mainitaan, parantaa suomalaisen tieteiskirjallisuuden tasoa, kouluttaa suomalaisia kirjoittajia, tehdä suomalaista tieteiskirjallisuutta tunnetuksi sekä, hieman utopistisesti, toimia jäsentensä taloudellisen, oikeudellisen ja ammatillisen aseman parantamiseksi. STK, kuten se humoristisesti voidaan lyhentää, on pieni ja nuori yhdistys, sillä jäseniä on 36 ja ikää alle vuosi. Silti on lyhyt historiamme ollut sekä värikäs että ajoittain myrskyisäkin. _(Olisinpa tuolloin tiennyt mitä todellisia myrskyjä vielä oli edessäpäin!)_
 

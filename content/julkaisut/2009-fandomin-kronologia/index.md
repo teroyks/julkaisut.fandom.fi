@@ -244,7 +244,7 @@ _Tampereen SF Seuran_ vuosikokous jonka jälkeen katsottiin elokuva.
 
 ## 28. huhtikuuta 1984
 
-Turun SF Seuran kevätkokous ja Atorox-palkinnon jako Turun yliopistolla. Voittaja oli **Eija Elo** novellilla _Napoleonin vaihtoviikot_ Portista 3/1983. Palkinnon otti vastaan voittajan puolesta **Pauli Suurniemi**. lopuksi esitettiin kaksi sf-elokuvaa.
+Turun SF Seuran kevätkokous ja Atorox-palkinnon jako Turun yliopistolla. Voittaja oli **Eija Elo** novellilla _Napoleonin vaihtoviikot_ Portista 3/1983. Palkinnon otti vastaan voittajan puolesta **Pauli Suuriniemi**. lopuksi esitettiin kaksi sf-elokuvaa.
 
 ## Kevät 1984
 
@@ -438,7 +438,7 @@ _Tampereen Star Trek seuran_ perustava kokous Tampereen Ylioppilastalolla. Tulik
 
 ## 16. kesäkuuta 1995
 
-_Middle-Err_ Laajavuoressa Jyväskylässä Tolkien-Seuran smialit esittäytyivät ja pitivät eri kivaa. Tapahtuman järjestivät Jyväskylän smial _Everholtin_ metsäsiat.
+_Middle-Err_ Laajavuoressa Jyväskylässä Tolkien-seuran smialit esittäytyivät ja pitivät eri kivaa. Tapahtuman järjestivät Jyväskylän smial _Everholtin_ metsäsiat.
 
 ## 17.–18. kesäkuuta 1995
 

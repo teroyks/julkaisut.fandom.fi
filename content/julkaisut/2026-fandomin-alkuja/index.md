@@ -44,7 +44,7 @@ JH: Vielä elossa.
 
 IH: Näin, näin. Kaikki kerkeää nähdä.
 
-Jussi-Ville Heiskanen, Seppo Hyrkäs, Jyrki Ijäs, Toni Jerrman, SidSid Keränen, Tuomas Kilpi, Timo Kokkila, Jari Koponen – jonka nimen löydätte monista kirjoista – Vesa Lempiäinen, Olavi Markkanen, Pekka Markkula, Jukka Murtosaari, Kari Mäentaka, Raimo Nikkonen, Timo Pietilä, Tapani Piha, Liisa Rantalaiho – ole hyvä ja nouse ylös ja heiluta kaikille – Veikko Rekunen, Matti Rosvall, Pirkko Rosvall, Jorma-Veikko Sappinen, Matti Savolainen, Pekka Supinen, Pauli Suurniemi, Jouni J. Särkijärvi, Ari Tervonen, Lauri Tudeer ja Tom Ölander. Aplodit heille kaikille.
+Jussi-Ville Heiskanen, Seppo Hyrkäs, Jyrki Ijäs, Toni Jerrman, SidSid Keränen, Tuomas Kilpi, Timo Kokkila, Jari Koponen – jonka nimen löydätte monista kirjoista – Vesa Lempiäinen, Olavi Markkanen, Pekka Markkula, Jukka Murtosaari, Kari Mäentaka, Raimo Nikkonen, Timo Pietilä, Tapani Piha, Liisa Rantalaiho – ole hyvä ja nouse ylös ja heiluta kaikille – Veikko Rekunen, Matti Rosvall, Pirkko Rosvall, Jorma-Veikko Sappinen, Matti Savolainen, Pekka Supinen, Pauli Suuriniemi, Jouni J. Särkijärvi, Ari Tervonen, Lauri Tudeer ja Tom Ölander. Aplodit heille kaikille.
 
 _\[aplodeja\]_
 
@@ -82,7 +82,7 @@ IH: Oliko Tamfan jo sitten? Koska mä mietin, että Suomen tieteiskirjoittajat o
 
 TY: Joo, kyllä.
 
-IH: Ja täällä on – tässä hienossa väitöskirjassa, mutta ehkä löydät jostakin – on Juhani Hinkkasen kuva, jossa on Suomen tieteiskirjoittajien, joka silloin oli vielä Suomen Science Fiction ‑kirjoittajat, perustamiskokouksen kuva Turun tuomiokirkon portailla. Ja siellä on paikalla Jyrki Ijäs, Kari Mäentaka, Pekka Sirkiä, Veikko Rekunen, Juha Keränen, Pekka Virtanen, Toni Jerrman, Tuomas Kilpi, Kivi Larmola ja Mika Niemi, Pekka Supinen, Anetta Mertaranta ja Harri Haarikko, ja Jussi-Ville Heiskanen saapui paikalle myöhemmin E.T.:ksi pukeutuneena. _\[naurua\]_
+IH: Ja täällä on – tässä hienossa väitöskirjassa, mutta ehkä löydät jostakin – on Juhani Hinkkasen kuva, jossa on Suomen tieteiskirjoittajien, joka silloin oli vielä Suomen Science Fiction ‑kirjoittajat, perustamiskokouksen kuva Turun tuomiokirkon portailla. Ja siellä on paikalla Jyrki Ijäs, Kari Mäentaka, Pekka Sirkiä, Veikko Rekunen, Juha Keränen, Pekka Virtanen, Toni Jerrman, Tuomas Kilpi, Kivi Larmola ja Mika Niemi, Pekka Supinen, Anetta Meriranta ja Harri Haarikko, ja Jussi-Ville Heiskanen saapui paikalle myöhemmin E.T.:ksi pukeutuneena. _\[naurua\]_
 
 TY: Joo, ja Tieteiskirjoittajathan oli tämmöinen – toisin kuin nimestä voi päätellä – ei pelkästään kirjoittajien yhteisö, kirjoittajille tehty, vaan myöskin, niin kuin Juha tuolta varmaan ainakin muistaa vanhoja, jos haluat sanoa muutaman sanan, mutta tämmöinen, joka tuotiin kokoamaan eri paikkoihin, että se ei ollut tietyllä paikkakunnalla pelkästään toimiva, vaikka – niin kuin kaikki hyvät asiat – perustettiinkin Turussa. Mutta kuitenkin tarkoitus oli olla tämmöinen kansallinen yhteistyötapaaminen. Sieltä – haluatteko täydentää tähän?
 
@@ -368,7 +368,7 @@ IH: En Harry Harrisonia – no, tapasin kyllä, mutta paljon myöhemmin. Mutta s
 
 Jussi Vainikainen: Siinä tapauksessa minä nostan Johanna Vainikaisen.
 
-IH: No niin, olit säkin ensimmäisiä. Hyvä. Ja tota niin, sitä oli kutsumassa kokoon – Ahosen Marko ei ehtinyt, vaan Kimmo Isokoski oli se, joka kutsui kokoon. Ja mä luulen, että mä menin toiseen kokoukseen sit sinne mukaan, ja oon sitten siellä ollut seuran jäsenenä ja seuran puheenjohtajana. Ja sitten vuonna 90 Jyväskylän Kesä ‑festivaalista soitettiin Helsinkiin Toni Jermanille, että meille tarvittaisiin nyt nuoriso-ohjelmaa, että olisiko teillä siellä sitä science fictionia. Ja Toni Jerman sanoi, että mitäs te tänne soittelette, että teillä on oma seura siellä. Ja sitten he ottivat yhteyttä Marko Ahoseen, joka oli silloin puheenjohtaja, ja sitten teimme sinne tapahtuman. Mä en tehnyt mitään – mä otin aurinkoa kotona, kuulkaa, mä en tiennyt mitään, mitä oli tapahtumassa. Ja Ian Watson oli siellä ihana vieras. Ja seuraavana vuonna sitten haluttiin lisää – –
+IH: No niin, olit säkin ensimmäisiä. Hyvä. Ja tota niin, sitä oli kutsumassa kokoon – Ahosen Marko ei ehtinyt, vaan Kimmo Isokoski oli se, joka kutsui kokoon. Ja mä luulen, että mä menin toiseen kokoukseen sit sinne mukaan, ja oon sitten siellä ollut seuran jäsenenä ja seuran puheenjohtajana. Ja sitten vuonna 90 Jyväskylän Kesä ‑festivaalista soitettiin Helsinkiin Toni Jerrmanille, että meille tarvittaisiin nyt nuoriso-ohjelmaa, että olisiko teillä siellä sitä science fictionia. Ja Toni Jerrman sanoi, että mitäs te tänne soittelette, että teillä on oma seura siellä. Ja sitten he ottivat yhteyttä Marko Ahoseen, joka oli silloin puheenjohtaja, ja sitten teimme sinne tapahtuman. Mä en tehnyt mitään – mä otin aurinkoa kotona, kuulkaa, mä en tiennyt mitään, mitä oli tapahtumassa. Ja Ian Watson oli siellä ihana vieras. Ja seuraavana vuonna sitten haluttiin lisää – –
 
 \[Kommentti yleisöstä\]: Se oli 91?
 
