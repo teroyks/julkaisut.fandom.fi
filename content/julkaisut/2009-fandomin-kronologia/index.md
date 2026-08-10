@@ -276,7 +276,7 @@ _Suomen Science Fiction Kirjoittajien Yhdistyksen_ hallitus kokoontui Jyväskyl�
 
 ## 1. joulukuuta 1984
 
-_Suomen Science Fiction Kirjoittajien Yhdistys_ pitää ensimmäisen vuosikokouksensa Seinäjoella ravintola Krisnassa. Läsnä oli yhdeksän jäsentä. Yhdistyksen nimi muutetaan nykyiseen muotoonsa _Suomen Tieteiskirjoittajat_.
+_Suomen Science Fiction Kirjoittajien Yhdistys_ pitää ensimmäisen vuosikokouksensa {% nimi "Seinäjoella", "Seinäjoki" %} ravintola Krisnassa. Läsnä oli yhdeksän jäsentä. Yhdistyksen nimi muutetaan nykyiseen muotoonsa _Suomen Tieteiskirjoittajat_.
 
 Samana päivänä Turun SF Seuran syyskokous Turun yliopistolla. Kokouksen jälkeen oli ohjelmassa pari sf-elokuvaa.
 
@@ -470,7 +470,7 @@ _Suomen sf-seurojen yhteistyökokous_ ja _Star Trek ‑tapahtuma_ Ilokiven kabin
 
 ## 27.–29. marraskuuta 1996
 
-**Philip Pullman** vieraili Suomessa kustannusyhtiö Tammen vieraana ja esiintyi yleisöllen yleisölle Rikhardinkadun kirjastossa (28/11), Helsingin yliopistolla (29/11) ja Akateemisessa kirjakaupassa (29/11).
+**Philip Pullman** vieraili Suomessa kustannusyhtiö {% nimi "Tammen", "Tammi" %} vieraana ja esiintyi yleisöllen yleisölle Rikhardinkadun kirjastossa (28/11), Helsingin yliopistolla (29/11) ja Akateemisessa kirjakaupassa (29/11).
 
 ## 3.–4. tammikuuta 1997
 

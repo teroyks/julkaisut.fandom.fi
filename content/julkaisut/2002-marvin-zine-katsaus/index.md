@@ -65,7 +65,7 @@ Tulevaisuus lienee zombien – huhut ainakin kertovat, että tulossa on uusi zom
 
 Onneksi scifipiireissä on zombieiden (merkittävänä) vastapainona myös Zeppelin Yhdistys. Sen julkaisema Blimb Attack ‑lehti on tukeva painotuote, jolla on muun muassa sellaisia iskulauseita kuin ”Syö voi hyvin”.
 
-Muusta sisällöstä voisi mainita Nalle Virolaisen läskiseksiscifisarjiksen ”We Want to Fuck Fat Women”. Ruokaohjeita piisaa lähes joka sivulla ja kuorrutuksena ovat loppupään muutamat fat-versiokuvat tunnetuista fandom-henkilöistä. Joviaalista asenteesta huolimatta Zeppeliinien tielle ei kannata joutua.  
+Muusta sisällöstä voisi mainita {% nimi "Nalle Virolaisen", "Nalle Virolainen" %} läskiseksiscifisarjiksen ”We Want to Fuck Fat Women”. Ruokaohjeita piisaa lähes joka sivulla ja kuorrutuksena ovat loppupään muutamat fat-versiokuvat tunnetuista fandom-henkilöistä. Joviaalista asenteesta huolimatta Zeppeliinien tielle ei kannata joutua.
 
 ## Torttu
 
