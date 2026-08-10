@@ -8,7 +8,7 @@ originalSite: Hinkkasen arkisto
 originalURL: https://www.aikakone.org/juhani/fandomkronologia.html
 ---
 
-Tämä tiedosto tulee olemaan listaus suomalaisista sf-tapahtumista ja suomalaisen fandomin hintoriaan liittyvistä merkkipäivistä. Työ on vielä kesken eikä varmasti koskaan tule olemaankaan täysin valmis sillä kuvia, tekstiä ja linkkejä on tarkoitus aika ajoin lisätä. Listauksen pääpaino on varhaisissa ajoissa mikä lyhyellä aikaskaalallamme tarkoittaa aikaa ennen vuotta 1990 (tätä kirjoittaessani vielä 1985). Aineiston määrän lisääntyessä on tiedosto tarkoitus pilkkoa useammaksi alasivuksi mutta aloitus tulee pysymään samassa osoitteessa (tämänhetkinen ei kuitenkaan välttämättä ole vielä lopullinen).
+Tämä tiedosto tulee olemaan listaus suomalaisista sf-tapahtumista ja suomalaisen fandomin historiaan liittyvistä merkkipäivistä. Työ on vielä kesken eikä varmasti koskaan tule olemaankaan täysin valmis sillä kuvia, tekstiä ja linkkejä on tarkoitus aika ajoin lisätä. Listauksen pääpaino on varhaisissa ajoissa mikä lyhyellä aikaskaalallamme tarkoittaa aikaa ennen vuotta 1990 (tätä kirjoittaessani vielä 1985). Aineiston määrän lisääntyessä on tiedosto tarkoitus pilkkoa useammaksi alasivuksi mutta aloitus tulee pysymään samassa osoitteessa (tämänhetkinen ei kuitenkaan välttämättä ole vielä lopullinen).
 
 Tässä listauksessa on luetteloitu kaikki tiedossani olevat fandom-tapahtumat, seurojen ja lehtien perustamiset sekä kaikenmoista tarkemmin määrittelemätöntä aiheeseen liittyvää. Seurojen yksittäiset kokoukset on pääsääntöisesti mainittu vain jos niissä oli muutakin kuin sääntömääräistä ohjelmaa. Yksittäisiä säännöllisiä kokoontumisia (”mafiat”) ei ole mainittu ellei niihin liity jotain arkirutiinista poikkeavaa.
 
