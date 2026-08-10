@@ -30,7 +30,7 @@ Turun SF Seuran järjestämä keskustelutilaisuus ravintola Iskerin musiikkisali
 
 ## 13. lokakuuta 1976
 
-Turun SF Seuran järjestämä keskustelutilaisuus Turun kaupunginkirjastossa. Keskustelun pohjana olivat **Jari Välimäen** esitys _Isaac Asimov: Itse Jumalat_ ja **Kai Salosen** _Stanislaw Lem: Solaris_. Kuulijoita oli kymmenen ja esitelmät jaettiin yleisölle monisteina. Salosen teksti ilmestyi myöhemmin Spinin numerossa 2/1981.
+Turun SF Seuran järjestämä keskustelutilaisuus Turun kaupunginkirjastossa. Keskustelun pohjana olivat **{% nimi "Jari Välimäen", "Jari Välimäki" %}** esitys _Isaac Asimov: Itse Jumalat_ ja **{% nimi "Kai Salosen", "Kai Salonen" %}** _Stanislaw Lem: Solaris_. Kuulijoita oli kymmenen ja esitelmät jaettiin yleisölle monisteina. Salosen teksti ilmestyi myöhemmin Spinin numerossa 2/1981.
 
 ## 16. joulukuuta 1976
 
@@ -146,7 +146,7 @@ _Swecon 82_ Tukholmassa. Mukana kolme suomalaista: **Tom Ölander**, **Leena Pel
 
 ## 25. marraskuuta 1982
 
-Tampereen SF Seura kokoontui Tampereen kirjastotalon musiikkisalissa. Ohjelmassa oli **Jyrki Iivosen** alustus aiheesta _Venäläinen utopia_ ja ennakkotiedotteen mukaan _Dungeons and Dragons_ ‑pelinäytös sekä kuulumiset _Sweconista_.
+Tampereen SF Seura kokoontui Tampereen kirjastotalon musiikkisalissa. Ohjelmassa oli **{% nimi "Jyrki Iivosen", "Jyrki Iivonen" %}** alustus aiheesta _Venäläinen utopia_ ja ennakkotiedotteen mukaan _Dungeons and Dragons_ ‑pelinäytös sekä kuulumiset _Sweconista_.
 
 ## 21. helmikuuta 1983
 
@@ -334,7 +334,7 @@ Huviretki tienpientarelle Viikinsaaressa Tampereella.
 
 ## 15. joulukuuta 1988
 
-**Juho Tammisen** sf- ja fantasiakauppa _Taikapeilin_ (Mechelininkatu 23, Helsinki) avajaiset.
+**{% nimi "Juho Tammisen", "Juho Tamminen" %}** sf- ja fantasiakauppa _Taikapeilin_ (Mechelininkatu 23, Helsinki) avajaiset.
 
 ## 6.–7. toukokuuta 1989
 
