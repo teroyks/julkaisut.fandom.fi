@@ -23,9 +23,9 @@ Suomessa oli tähän aikaan jo yksittäisiä scififaneja, joista Tom Ölander vi
 
 ---
 
-Järjestäytyneen suomalaisen sf-fandomin varsinaisena virallisena alkulaukauksena on pidetty Turun Science Fiction Seuran ry:n perustamista 27.1.1976. Ensimmäiseen kokoukseen kutsuttiin sanomalehti Turkulaisessa sekä lentolehtisten välityksellä julkaistussa ilmoituksella. Ensimmäisen vuoden aikana seura järjesti kolme ohjelmallista jäsentapaamista, myös huutokaupan. Jäsenkirjeet alkoivat kulkea 36 jäsenelle, ja seuran lehti Spin aloitti ilmestymisensä vuonna 1977. 
+Järjestäytyneen suomalaisen sf-fandomin varsinaisena virallisena alkulaukauksena on pidetty Turun Science Fiction Seuran ry:n perustamista 27.1.1976. Ensimmäiseen kokoukseen kutsuttiin sanomalehti Turkulaisessa sekä lentolehtisten välityksellä julkaistussa ilmoituksella. Ensimmäisen vuoden aikana seura järjesti kolme ohjelmallista jäsentapaamista, myös huutokaupan. Jäsenkirjeet alkoivat kulkea 36 jäsenelle, ja seuran lehti Spin aloitti ilmestymisensä vuonna 1977.
 
-1970-luvun puolella ehdittiin vielä perustaa Tampereen Science Fiction Seura ry vuonna 1979. 
+1970-luvun puolella ehdittiin vielä perustaa Tampereen Science Fiction Seura ry vuonna 1979.
 Seura alkoi julkaista omaa lehteään Porttia vuonna 1982. Portista tuli ensimmäinen suomalainen scifilehti, joka levisi valtakunnallisesti kirjastoihin ja irtonumeromyyntiin.
 
 ---
@@ -60,19 +60,19 @@ Seuraava varsinainen con oli Tampereella vuonna 1985 järjestetty Tamcon. Se ker
 
 ---
 
-Ensimmäinen kansallinen scifitapahtuma Finncon järjestettiin vuonna 1986 Helsingissä. Finncon tuli tarpeeseen: scifiväki näki toisiaan aivan liian harvoin. Yhdistyksillä ei ollut vielä säännöllisiä pub-tapaamisia tai vastaavia toimintamuotoja. Toisin kuin nykyiset Finnconit, vuoden 1986 Finncon oli maksullinen. Finncon 86:n kunniavieraana oli Brian W. Aldiss. Ohjelmaan kuului normaalin con-ohjelman lisäksi taidenäyttely, useita elokuvanäytöksiä ja juhlaillallinen. Tapahtuma meni hyvin, mutta tuotti lopulta tappiota, jonka pääjärjestäjä Tom Ölander joutui maksamaan omasta pussistaan. 
+Ensimmäinen kansallinen scifitapahtuma Finncon järjestettiin vuonna 1986 Helsingissä. Finncon tuli tarpeeseen: scifiväki näki toisiaan aivan liian harvoin. Yhdistyksillä ei ollut vielä säännöllisiä pub-tapaamisia tai vastaavia toimintamuotoja. Toisin kuin nykyiset Finnconit, vuoden 1986 Finncon oli maksullinen. Finncon 86:n kunniavieraana oli Brian W. Aldiss. Ohjelmaan kuului normaalin con-ohjelman lisäksi taidenäyttely, useita elokuvanäytöksiä ja juhlaillallinen. Tapahtuma meni hyvin, mutta tuotti lopulta tappiota, jonka pääjärjestäjä Tom Ölander joutui maksamaan omasta pussistaan.
 
 ---
 
-Ensimmäisen Finnconin jälkeen käynnistyivät scifiseurojen säännölliset pub-tapaamiset, joita Suomessa alettiin kutsua ”mafioiksi”. Sanan alkuperästä on useita teorioita, joista useimmin toisteltu kiertyy Helsingin mafiassa edelleen vaikuttavaan T-J Hämäläiseen eli Kummisetään (”Godfather”). Jos kerran joukossa oli Kummisetä, sen täytyi olla mafia. Helsingin mafian 1980-luvun mieltymys mustaan pukeutumiseen on voinut sekin vaikuttaa asiaan. Ja joka tapauksessa fandom on perhe. 
+Ensimmäisen Finnconin jälkeen käynnistyivät scifiseurojen säännölliset pub-tapaamiset, joita Suomessa alettiin kutsua ”mafioiksi”. Sanan alkuperästä on useita teorioita, joista useimmin toisteltu kiertyy Helsingin mafiassa edelleen vaikuttavaan T-J Hämäläiseen eli Kummisetään (”Godfather”). Jos kerran joukossa oli Kummisetä, sen täytyi olla mafia. Helsingin mafian 1980-luvun mieltymys mustaan pukeutumiseen on voinut sekin vaikuttaa asiaan. Ja joka tapauksessa fandom on perhe.
 
 1980-luvun suomalainen scififandom oli nuorta ja äänekästä. Suuri osa aktiiveista oli noin 20-vuotiaita. Vanhempia faneja oli, mutta he olivat pikemminkin poikkeuksia.
 
-Mafiat sopivat hyvin scififandomin kasvaneeseen sosiaalisen elämän tarpeeseen. 
+Mafiat sopivat hyvin scififandomin kasvaneeseen sosiaalisen elämän tarpeeseen.
 
 Vanhin yhtäjaksoisesti kokoontunut pub-tapaaminen on Helsingin mafia, joka kokoontui ensimmäistä kertaa 15.1.1987. Pub-tapaamiset käynnistyivät muissakin kaupungeissa.
 
-1980-luvulle mahtui toinenkin Finncon. Vuoden 1989 Finncon järjestettiin ensimmäistä kertaa nykyisellä konseptilla: tapahtuma oli ilmainen. Idean tähän oli saanut Toni Jerrman, joka oli myös tapahtuman pääjärjestäjä. 
+1980-luvulle mahtui toinenkin Finncon. Vuoden 1989 Finncon järjestettiin ensimmäistä kertaa nykyisellä konseptilla: tapahtuma oli ilmainen. Idean tähän oli saanut Toni Jerrman, joka oli myös tapahtuman pääjärjestäjä.
 
 ---
 
@@ -106,15 +106,15 @@ Vuosituhannen taitteessa suomalainen scififandom alkoi päästä ylös 1990-luvu
 
 ---
 
-Scififandomin piristyminen näkyi pub-tapaamisten elvyttämisenä muun muassa Turussa ja Tampereella. Fandomin uusi into näkyi viimeistään vuonna 2003. Tuona vuonna Turussa järjestetty Finncon oli myös Eurocon. Kansainvälisyys alkoi tehdä paluuta suomalaisen fandomin piirteisiin. 
+Scififandomin piristyminen näkyi pub-tapaamisten elvyttämisenä muun muassa Turussa ja Tampereella. Fandomin uusi into näkyi viimeistään vuonna 2003. Tuona vuonna Turussa järjestetty Finncon oli myös Eurocon. Kansainvälisyys alkoi tehdä paluuta suomalaisen fandomin piirteisiin.
 
-Myös uuden internetfandomin ja vanhan fandomin välillä alkoi syntyä yhteyksiä. Vanhat fanit liittyivät joukolla Risingshadow-foorumin käyttäjiksi. Foorumi oli tuossa vaiheessa kasvanut jo lähes 2000 jäsenen yhteisöksi. Uusi internet-aika ei yllättäen merkinnytkään sitä, että fanit haluaisivat harrastaa pelkästään kotikoneellaan ruudun ääressä. Foorumien tosielämä-tapaamiset, ”miitit” syntyivät melkein heti. Kesti jokusen vuoden ennen kuin valkeni että perinteiset pub-tapaamiset ja conit toimivat loistavasti tilaisuutena nähdä niitä henkilöitä, joiden kanssa oli päivät pitkät keskustellut aluksi foorumeilla, myöhemmin sosiaalisessa mediassa. 
+Myös uuden internetfandomin ja vanhan fandomin välillä alkoi syntyä yhteyksiä. Vanhat fanit liittyivät joukolla Risingshadow-foorumin käyttäjiksi. Foorumi oli tuossa vaiheessa kasvanut jo lähes 2000 jäsenen yhteisöksi. Uusi internet-aika ei yllättäen merkinnytkään sitä, että fanit haluaisivat harrastaa pelkästään kotikoneellaan ruudun ääressä. Foorumien tosielämä-tapaamiset, ”miitit” syntyivät melkein heti. Kesti jokusen vuoden ennen kuin valkeni että perinteiset pub-tapaamiset ja conit toimivat loistavasti tilaisuutena nähdä niitä henkilöitä, joiden kanssa oli päivät pitkät keskustellut aluksi foorumeilla, myöhemmin sosiaalisessa mediassa.
 
 ---
 
 2000-luvun ensimmäinen vuosikymmen oli alku suomalaisen fandomin nykyiselle kukoistukselle. Aktivisoituminen näkyi scifiharrastamisen leviämisenä uusiin kaupunkeihin. Varsin aktiiviseksi osoittautunut Espoon science fiction- ja fantasiaseura ESC perustettiin vuonna 2004 – aluksi miltei vitsinä: ajatus seurasta syntyi Helsingin mafiassa, kun eräs pöydällinen faneja huomasi, että kaikki asuvat Helsingin naapurikaupungissa Espoossa. Seura-ajatus tuntui vitsiltä, sillä käytännössä Helsingin naapurikaupungit Espoo ja Vantaa ovat joukko Helsingin lähiöitä, joilla on oma hallinto. Seura otti kuitenkin tulta ja on ollut espoolaisen identiteetin kannalta tärkeä monelle scifistille (joskin tietty itseironia on kulkenut mukana koko seuran olemassaolon ajan).
 
-Fandomin järjestäytymistä paransi myös säännöllisiksi muuttuneet Yhteistyökokoukset, joita vuonna 2003 alettiin pitää säännöllisesti kerran vuodessa Tampereella. Ajankohdaksi vakiintui talven ja kevään taite helmi-maaliskuun vaihteessa. 
+Fandomin järjestäytymistä paransi myös säännöllisiksi muuttuneet Yhteistyökokoukset, joita vuonna 2003 alettiin pitää säännöllisesti kerran vuodessa Tampereella. Ajankohdaksi vakiintui talven ja kevään taite helmi-maaliskuun vaihteessa.
 
 ---
 
@@ -149,4 +149,3 @@ Bidiin suhtauduttiin jossain määrin ristiriitaisesti, joskin monet jakoivat aj
 Alle kaksi kuukautta LoneStarConista käynnistettiin Helsinki in 2017 ‑hanke. Tällä kertaa käynnistäminen tehtiin ”kirjan mukaan”. Ylimääräinen, Turussa järjestetty yhteistyökokous teki lokakuun alussa 2013 päätöksen bid-komitean perustamisesta. Varsinaisesti bid aloitti kampanjointinsa muutamaa viikkoa myöhemmin vuoden 2013 Sweconissa. Tällä kertaa suomalaisen fandomin aktiivit olivat yhtenä joukkona bidin takana, mikä näkyi lopulta myös noin seitsemän kertaa suurempana suomalaisäänien määränä Site selectionissa.
 
 Helsinki järjestää vuoden 2017 Worldconin. Suomalaiselle fandomille tämä on suuri hetki. Se ei olisi mahdollista ilman niitä turkulaisia intomieliä, jotka 40 vuotta aikaisemmin päättivät, että oma yhdistys science fictionin harrastajille olisi oikeastaan varsin hieno keksintö.
-
