@@ -140,7 +140,9 @@ IH: Ei, tämä on kulttuuripolitiikkaa.
 
 No sitten meni Tampere. Liisa, ole hyvä.
 
-Liisa Rantalaiho: Siis Tampereella se lähti sillä lailla, että Raimo Nikkonen pani Aamulehteen ilmoituksen: onko Tampereella muitakin ihmisiä, joita kiinnostaa tieteiskirjallisuus – puhelinnumero. Ja tuli muutama soitto. Minä soitin, monet muut soitti. Ja siitä lähti sitten ensiksi semmoinen piiri, joka vaan niin kuin jotenkin kokoontui, ja hyvin pian päätettiin, että olisi kiva perustaa oma lehti. Tai saattoi siihen mennä pari vuotta, ehkä 84, ennen kuin se Portti ilmestyi. Ja nyt kun mulla on tilaisuus, mä halusin, että kaikki kuulisi ja muistaisi rakkaudella semmoista nimeä kuin Leena Peltonen, joka oli erittäin keskeinen henkilö. Ja hän myös aloitti – oli varmasti muitakin, ja Johanna voi kertoa lisää – mutta hän myös aloitti semmoisen, että suomalainen fandom alkoi osallistua ulkomaisiin coneihin.
+Liisa Rantalaiho: Siis Tampereella se lähti sillä lailla, että Raimo Nikkonen pani Aamulehteen ilmoituksen: onko Tampereella muitakin ihmisiä, joita kiinnostaa tieteiskirjallisuus – puhelinnumero. Ja tuli muutama soitto. Minä soitin, monet muut soitti. Ja siitä lähti sitten ensiksi semmoinen piiri, joka vaan niin kuin jotenkin kokoontui, ja hyvin pian päätettiin, että olisi kiva perustaa oma lehti. Tai saattoi siihen mennä pari vuotta, ehkä 84, ennen kuin se Portti ilmestyi.[^portti] Ja nyt kun mulla on tilaisuus, mä halusin, että kaikki kuulisi ja muistaisi rakkaudella semmoista nimeä kuin Leena Peltonen, joka oli erittäin keskeinen henkilö. Ja hän myös aloitti – oli varmasti muitakin, ja Johanna voi kertoa lisää – mutta hän myös aloitti semmoisen, että suomalainen fandom alkoi osallistua ulkomaisiin coneihin.
+
+[^portti]: Portti alkoi ilmestyä vuonna 1982.
 
 IH: Kyllä. Ja Leena Peltosesta on puhe – Tampereen Finnconissa pidetty kunniavieraspuhe – tallella jossakin julkaisussa. Tosin se on osittain fiktiivinen, mutta se oli tarpeen, koska Leenasta oli kyse. Leenaan voidaan yhdistää suklaakakku, chili, kääntäminen ja syvä asiantuntemus science fictionista ja kansainvälisestä fandomista.
 
@@ -226,7 +228,9 @@ IH: Ruotsalaisille.
 
 BR: Mutta palatakseni – oliko se nyt sitten Linköping vai mikä – mutta jos nyt otetaan ihan tämmöinen muistelu, missä ainakin me kolme _\[viittaa Jukkaan ja Teroon\]_ ollaan oltu ihan mukanakin. Niin oli tää – ja tää kuitenkin on suht alkuvaiheessa fandomia, Suomen fandomhistoriaa – siinä vaiheessa kun porukka rupes käymään ruotsalaisissa coneissa. Ja siinä vaiheessa Finnconit sun muut pyöri jo täällä ihan kunnolla, eli me tiedettiin, miten con tehdään, mimmonen con on, mimmonen conin kuuluu olla. Sit me mennään Ruotsin coniin, joka oli Ruotsin länsirannikolla, muistaakseni…
 
-JH: Joo, elikä mehän oltiin 2002 Linköpingissä Ryds herrgårdissa, joka on semmoinen huvila, jonne mahtui toistasataa ihmistä. Mutta 2003 me kolme mentiin sitten Göteborgiin.
+JH: Joo, elikä mehän oltiin 2002 Linköpingissä Ryds herrgårdissa, joka on semmoinen huvila, jonne mahtui toistasataa ihmistä. Mutta 2003 me kolme mentiin sitten Göteborgiin.[^conceive]
+
+[^conceive]: Kyseessä oli ConCeive, vuoden 2005 Swecon. Ks. [matkaraportti](/julkaisut/2005-swecon-goteborg/)
 
 BR: Niin, se oli _siellä_. Tullaan sinne conin paikalle. Oliks se niin, että conin piti alkaa tunnin päästä tai jotain semmoista. Me ollaan siellä hyvissä ajoin ja mennään katsomaan, että missäs täällä se con on. Ja täällä on tämmöinen iso sali, jossa ei oo yhtään tuolia. Tuolla on näköjään noita tuoleja kauheasti – ruvetaanko pistämään tuoleja paikalleen? Ja sit me pistettiin sinne tuolit paikalleen.
 
@@ -342,7 +346,7 @@ BR: Hei, mä syön tällä viikon!
 
 BR: – – mä kirjoitin oman vastineeni siihen ja lähetin sinne, ja sehän julkaistiin sitten Aikakone-lehdessä. Eli se oli…
 
-\[Yleisöstä vilautetaan satasta, mutta ei tuoda Benille: ”Tää menee rippilahjaksi”.\]
+_\[Yleisöstä vilautetaan satasta, mutta ei tuoda Benille: ”Tää menee rippilahjaksi”.\]_
 
 – No niin, hyvä, on parempi niin. Eli siis se oli mun ensimmäinen tämmöinen kontakti fandomiin. Kirjallinen kontakti, koska silloin oli näitä kirjepalstoja lehdissä, ja niihin kirjoitettiin ja niitä luettiin ja silleen. Ensimmäinen tämmöinen ihmiskontakti tuli sitten vuodelta 84 ehkä, tai 83. Ensimmäinen – ei kun toinen – Huviretki tienpientareelle Tampereella. Ja mä olin lukenut siitä Portti-lehdestä, miten kivaa oli ollut viime vuonna, niin mähän sinne läksin mukaan. Ja kävelen Laukontorin rantaan ja katson, että täällä ei mitään ihmisiä näy – tos istuu joku tyyppi tossa laiturilla. Mä menin juttelemaan sitten tämän tyypin kanssa, joka oli Marko Mahnala, ja siitä lähtien ollaan Markon kanssa tunnettu. Ja sinne sit saareen mentiin yhdessä, ja siellä tavattiin paljon muita tyyppejä. Ja mä muistan, että kun näitä tyyppejä sit näki livenä, niin mun ensimmäinen reaktio oli se – ja saatoin Leena Peltoselle ja Raimo Nikkoselle jopa sanoakin – että ”oho, tehän ootte kaikki ihan aikuisia ihmisiä, mä luulin, että olisitte kaikki mun ikäisiä”. Ja tota noin, silloin olin alta kaksikymppinen reippaasti. Ja sieltä se läks. Ja silloin muistan, että siinä tilaisuudessa keskusteltiin vähän – Nikkonen ja Peltonen ja muut tamperelaiset siinä – että conia voisi lähteä järjestämään. Ja siitä tuli sitten Tamcon seuraavana vuonna, johon en ikävä kyllä päässyt, koska olin kesätöissä apteekissa. Joo, mut tämmöstä.
 
@@ -364,7 +368,9 @@ IH: No joo, tota niin, mä teen tutkijan taipaleen. Opin lukemaan nelivuotiaana,
 
 JH: Tapasin Harry Harrisonin.
 
-IH: En Harry Harrisonia – no, tapasin kyllä, mutta paljon myöhemmin. Mutta sitten tutustuin scifiin pitkän kaavan mukaan. Mutta nyt nostan ylös Jussi Vainikaisen – nouse ylös, Jussi Vainikainen – jonka kaikki tiedätte tämän laajan ja kattavan bibliografian tekijänä. Jussi on näitä Jyväskylän Science Fiction Seuran perustajajäseniä.
+IH: En Harry Harrisonia – no, tapasin kyllä, mutta paljon myöhemmin. Mutta sitten tutustuin scifiin pitkän kaavan mukaan. Mutta nyt nostan ylös Jussi Vainikaisen – nouse ylös, Jussi Vainikainen – jonka kaikki tiedätte tämän laajan ja kattavan bibliografian tekijänä.[^sf-bibliografia] Jussi on näitä Jyväskylän Science Fiction Seuran perustajajäseniä.
+
+[^sf-bibliografia]: Ks. [anarres.fi](https://anarres.fi/sf/bib/)
 
 Jussi Vainikainen: Siinä tapauksessa minä nostan Johanna Vainikaisen.
 
