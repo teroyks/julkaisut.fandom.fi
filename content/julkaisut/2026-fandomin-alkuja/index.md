@@ -56,7 +56,7 @@ Harri Haarikko: Et kai sä multa kysy vaan, että muistanko mää tämmöistä?
 
 TY: Se oli hieno. Se julkaistiin jonkun kirjamessujen yhteydessä muistaakseni 90-luvulla.[^haarikko-runo]
 
-[^haarikko-runo]: Kyseinen runo, _Science fiction?, tai, ei kiitos, kaada itselles vaan_, on julkaistu Spin-lehden numerossa 6/1994.
+[^haarikko-runo]: Kyseinen runo, _[Science fiction?, tai, ei kiitos, kaada itselles vaan](/julkaisut/1994-haarikko-science-fiction/)_, on julkaistu Spin-lehden numerossa 6/1994.
 
 IH: Sen täytyy olla Turun kirjamessuilla.
 

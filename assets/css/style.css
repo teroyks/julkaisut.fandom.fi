@@ -405,3 +405,13 @@ article hr::after {
   font-size: 0.9375rem;
   color: var(--text-muted);
 }
+
+/* For poems, preserve whitespace, but don't use monospace.
+   Preserve line breaks; otherwise, wrap normally.
+   Indent lines with tabs.
+ */
+ .poem {
+     font-family: inherit;
+     white-space: pre-wrap;
+     tab-size: 8;
+ }
