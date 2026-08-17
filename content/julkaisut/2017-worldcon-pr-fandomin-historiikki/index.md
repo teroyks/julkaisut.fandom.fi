@@ -4,7 +4,7 @@ author: Vesa Sisättö
 date: 2017-01-26
 added: 2026-08-05
 description: Katsaus suomalaisen scififandomin historiaan, Worldcon 2017 progress report
-originalPublication: "englanniksi Worldcon 75:n Progress Report #2 ja #3, 2017"
+originalPublication: "Worldcon 75:n Progress Report #2 ja #3, 2017 (englanniksi)"
 ---
 
 Scififania ei voi olla ilman science fiction ‑kirjallisuutta. Tieteiskirjallisuus rantautui Euroopan koillisnurkkaan 1800-luvulla – samoihin aikoihin kuin genre syntyi ja levisi muuallakin maailmassa. Suomessa tieteiskirjallisuutta – sekä alkuteoksia että käännöksiä – julkaistiin aluksi sanomalehdissä. 1800-luvulla oli vielä tavallista, että sanomalehdissä oli uutisten lisäksi novelleja ja jopa kokonaisia romaaneja jatkokertomuksina. Kirjamuotoisia tieteisteoksia ilmestyi Suomessa vasta paljon myöhemmin, 1900-luvun puolella.
