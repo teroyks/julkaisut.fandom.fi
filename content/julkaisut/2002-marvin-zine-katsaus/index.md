@@ -4,13 +4,11 @@ author: Vesa Sisättö
 date: 2002-08-01
 added: 2026-08-05
 description: Katsaus HySFKin klubihuoneelta löytyneisiin vanhoihin zineihin
-originalPublication: Marvin 3/2002
+originalPublication: "Marvin 3/2002 (päiväys on arvio)"
 ---
 
 eli\
 Vertahyytävä Katsaus Scifipiirien Pienjulkaisuihin ja Niiden Julkaisijoihin.
-
-_Päivämäärä on arvio._
 
 Oikeastaan kadun sitä, että koskaan tulin ottaneeksi jutun vastaan. Yritys selvittää mitä synkeitä salaisuuksia kätkeytyy Klubin arkistoissa lojuvien pölyisiin lötteroihin voisi viedä vähäisemmältä mieheltä hengen. Minulla on kuitenkin yliluonnollisia voimia.
 

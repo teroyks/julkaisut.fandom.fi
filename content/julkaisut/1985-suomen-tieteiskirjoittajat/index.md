@@ -4,7 +4,7 @@ author: Juhani Hinkkanen
 date: 1985-06-01
 added: 2026-08-10
 description: Suomen tieteiskirjoittajien perustamisseikkailuja
-originalPublication: Pulsari, kesäkuu 1985
+originalPublication: "Pulsari, kesäkuu 1985 (päiväys on arvio)"
 originalSite: Hinkkasen arkisto
 originalURL: https://www.aikakone.org/juhani/arkisto/tieteiskirjoittajat.html
 ---
