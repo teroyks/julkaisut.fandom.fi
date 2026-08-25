@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 ---
-<article{% if not eleventyExcludeFromCollections %} data-pagefind-body{% endif %} data-pagefind-filter="vuosi:{{ page.date.getUTCFullYear() }}">
+<article{% if emphasis %} class="emphasis-{{ emphasis }}"{% endif %}{% if not eleventyExcludeFromCollections %} data-pagefind-body{% endif %} data-pagefind-filter="vuosi:{{ page.date.getUTCFullYear() }}">
   <header>
     <h1>{{ title }}</h1>
     <p class="meta">

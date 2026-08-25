@@ -335,6 +335,18 @@ blockquote {
   border-inline-start: 3px solid var(--border);
 }
 
+/*
+ * Some older texts emphasised by letterspacing rather than by
+ * italics. Opt in per article with `emphasis: spaced` in the front matter.
+ */
+.emphasis-spaced em {
+  font-style: normal;
+  letter-spacing: 0.15em;
+  /* letter-spacing trails the last letter too, which would push a
+     following comma or period away from the word */
+  margin-inline-end: -0.15em;
+}
+
 pre {
   padding: 0.75rem 1rem;
   overflow-x: auto;
